@@ -14,7 +14,7 @@ Schedule
 | Establecer los Escenarios de las Personas (Estudiantes y Profesores) (Paso 9 Personas) | ... | 2 | Dilian Us | ... | 24 feb 2024 |
 | Establecimiento de KPI sobre Horas Hombre | ... | ... | Eduardo Lopez | ... | ... |
 | Realizar el reporte de las Pruebas de Usabilidad | ... | 2 | Eduardo Lopez | ... | 5 mar 2024 |
-| Descripción de los requisitos iniciales del proyecto | ... | 3 | ... | ... | 5 mar 2024 |
+| Descripción de los requisitos iniciales del proyecto | ... | 3 | Ileana Castillo | ... | 5 mar 2024 |
 | Preparación de la Presentación de la Primera Entrega | ... | 1 | Ileana Castillo | ... | 6 mar 2024 |
 | Llevar a cabo la Presentación de la Primera Entrega | ... | 1 | Equipo | ... | ... |
 | Llevar a cabo la Prueba de Usabilidad | ... | 2 | Equipo | ... | ... |
