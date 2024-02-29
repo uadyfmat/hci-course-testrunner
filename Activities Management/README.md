@@ -3,8 +3,8 @@ Schedule
 
 | Actividad | Descripción | KPI | Encargado | Salida (artefacto) | Deadline |
 |---|---|---|---|---|---|
-| Aplicación de la encuesta sobre la población estudiantil | Aplicar una encuesta para recopilar información sobre la población estudiantil. | 1 Equipo | Equipo | Respuestas de encuesta en Google Forms |  |
-| Llevar a cabo la Prueba Preliminar de Usabilidad | Se realiza una prueba de usabilidad con los miembro del equipo para refinar detalles para la prueba oficial | 1 Equipo | Equipo | Reporte de la prueba de usabilidad |  |
+| Aplicación de la encuesta sobre la población estudiantil | Aplicar una encuesta para recopilar información sobre la población estudiantil. | 1  | Equipo | Respuestas de encuesta en Google Forms |  |
+| Llevar a cabo la Prueba Preliminar de Usabilidad | Se realiza una prueba de usabilidad con los miembro del equipo para refinar detalles para la prueba oficial | 1 | Equipo | Reporte de la prueba de usabilidad |  |
 | Diseñar la encuesta en Google Forms para extraer información de los estudiantes | ... | 2 | Zenet lopez,Ileana Castillo | ... | ... |
 | Diseñar el perfil de las Personas (Estudiantes y Profesores) (Paso 5 Personas) | ... | 2 | Ileana Castillo| ... | ... |
 | Diseñar la Prueba de Usabilidad para el desarrollo de la extensión de estudiantes de VS | ... | 2 | Zenet lopez | ... | ... |
