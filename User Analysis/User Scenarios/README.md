@@ -122,7 +122,7 @@
   - Testrunner provides clear feedback on the obtained results.
   - Testrunner offers an easy way to conduct exercises without the need for local installation.
 
-#**General information for the professors scenarios:**
+# **General information for the professors scenarios:**
 #### Scenario 1
 
 ## Scenario: Create input/output template files for exercises
