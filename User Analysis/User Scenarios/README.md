@@ -121,3 +121,53 @@
   - Testrunner identifies both failed and successful exercises.
   - Testrunner provides clear feedback on the obtained results.
   - Testrunner offers an easy way to conduct exercises without the need for local installation.
+
+**General information for the professors scenarios:**
+#### Scenario 1
+
+# Scenario: Create input/output template files for exercises
+
+## Person: Programming Instructor
+
+### Situation
+The instructor needs to edit input/output templates in the GitHub repository according to their needs and exercises.
+
+### Technology
+- Testrunner
+- GitHub
+
+## Questions
+
+- **What challenges does the instructor face in this situation?**
+   - Lack of time to manually review all tests.
+   - Inconsistency in the evaluation of the tests.
+
+-**What specific steps does the instructor take to achieve their goal?**
+   - Obtain the repository with Testrunner.
+   - Edit the input/output templates to use them in their own exercises.
+   - Perform tests with the repository to verify that their templates are well implemented.
+   - Create the classroom and assignments for their students.
+   - Review the results of the tests.
+   - Provide feedback to the students.
+
+-**What information does the instructor need to complete each step?**
+   - Location of the code tests.
+   - Instructions on how to edit input/output templates and create new exercises.
+   - Instructions to run the tests in Testrunner.
+   - Interpretation of the results of the tests.
+
+-**What obstacles or difficulties can the instructor encounter?**
+   - Errors in the configuration of the tests.
+   - Lack of time to review all student comments.
+
+**How does Testrunner help the user overcome these obstacles?**
+   - Automates the execution of tests, saving time.
+   - Provides reports with the results of the tests.
+
+## Result
+- **Expected from the User:**
+-The instructor can review and correct code tests more efficiently.
+-Students receive more accurate and timely feedback on their work.
+- **System Perspective Results:**
+  - Testrunner identifies both failed and successful exercises.
+  - Testrunner provides clear feedback on the obtained results.
