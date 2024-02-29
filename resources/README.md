@@ -1,1 +1,1 @@
-Resources for main README (images)
+images resources for report files in main folders
