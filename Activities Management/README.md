@@ -5,10 +5,10 @@ Schedule
 |---|---|---|---|---|---|
 | Aplicación de la encuesta sobre la población estudiantil | Aplicar una encuesta para recopilar información sobre la población estudiantil. | 1  | Equipo | Respuestas de encuesta en Google Forms |  |
 | Llevar a cabo la Prueba Preliminar de Usabilidad | Se realiza una prueba de usabilidad con los miembro del equipo para refinar detalles para la prueba oficial | 1 | Equipo | Reporte de la prueba de usabilidad |  |
-| Diseñar la encuesta en Google Forms para extraer información de los estudiantes | ... | 2 | Zenet lopez,Ileana Castillo | ... | ... |
-| Diseñar el perfil de las Personas (Estudiantes y Profesores) (Paso 5 Personas) | ... | 2 | Ileana Castillo| ... | ... |
-| Diseñar la Prueba de Usabilidad para el desarrollo de la extensión de estudiantes de VS | ... | 2 | Zenet lopez | ... | ... |
-| Creación del Cronograma sobre la realización de actividades/entrega de artefactos de la Primera Entrega | ... | 1 | Dilian Us | ... | ... |
+| Diseñar la encuesta en Google Forms para extraer información de los estudiantes | Creacion de preguntas con el objetivo de recolectar informacion especifica sobre los posibles usuarios  | 2 | Zenet lopez,Ileana Castillo | ... | ... |
+| Diseñar el perfil de las Personas (Estudiantes y Profesores) (Paso 5 Personas) | Reducir demograficamente a los usuarios para poder definir un perfil del usuario que utilizaria el sistema | 2 | Ileana Castillo| ... | ... |
+| Diseñar la Prueba de Usabilidad para el desarrollo de la extensión de estudiantes de VS | diseñar las practicas y pruebas que se le realizarán al sistemas para comprobar su comodidad o facilidad, e identificar la complejidad que puede tener us manejo | 2 | Zenet lopez | ... | ... |
+| Creación del Cronograma sobre la realización de actividades/entrega de artefactos de la Primera Entrega | Creacion del cronograma en un formato mas contabilizable basandose en las tareas establecidad en el proyecto  | 1 | Dilian Us | ... | ... |
 | Realizar el análisis de los resultados de la encuesta en Google Forms (orientado a estudiantes) (Paso 1, Personas) | ... | 2 | Esteban Cime | ... | ... |
 | Redactar el reporte de las Personas (Paso 1 - 10) | ... | 3 | Gumi | ... | ... |
 | Establecer los Escenarios de las Personas (Estudiantes y Profesores) (Paso 9 Personas) | ... | 2 | Dilian Us | ... | ... |
