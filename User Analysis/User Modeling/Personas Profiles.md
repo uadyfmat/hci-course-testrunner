@@ -3,7 +3,7 @@
 
 *“I want to have an easy way to beginning of my learning path in programming”* 
 
-![Student](resources/Student.jpg)
+![Student](/resources/Student.jpg)
 
 ## Description: 
 
@@ -33,7 +33,7 @@ Jose is a current software engineering student who has recently passed his unive
 
 *“Damn, another group of 30 students”* 
 
-![Professor](resources/Professor.jpg)
+![Professor](/resources/Professor.jpg)
 
 ## Description 
 Carlos teaches programming courses at the university where he works. He is excited to start the new Principles of Programming course; however, he did not expect the academic department to assign him a group with too many students. This makes Carlos feel overwhelmed about how he will evaluate the students; he has no idea how he will review so many assignments and exams. He also fears that this workload will extend beyond his work hours. 
