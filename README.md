@@ -46,18 +46,15 @@ The team consists of 5 members, enrolled in the HCI subject. For the management 
 The activities carried out for the design and development of the project during the course were established, assigned, weighted and managed through a board in the Trello platform, following the Kanban format.
 
 > **Link to the Trello board:** https://trello.com/b/msc8SngK/hci-course 
- 
 
-Trello 
 
-Cronograma 
-
-Métricas 
-
- 
-
-### Artefactos Entregables 
-wasd
-
-### Métricas aplicadas 
-wasd
+### Deliverable Artefacts
+The deliverable artefacts for the first delivery are presented below:
+- Timeline of Activities
+- Survey results
+- Profile of People (Students and Teachers)
+- People Scenarios (Students and Teachers)
+- Analysis of the Personas methodology
+- Usability Test Design
+- Usability Test Reports
+- Functional and Non-Functional Requirements
