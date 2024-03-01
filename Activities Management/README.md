@@ -1,22 +1,68 @@
-Schedule
-**Esta tabla resume las actividades del proyecto, incluyendo su descripción, KPI, responsable, salida esperada y fecha límite.**
+# Activities Management
 
-| Actividad | Descripción | KPI | Encargado | Salida (artefacto) | Deadline |
-|---|---|---|---|---|---|
-| Aplicación de la encuesta sobre la población estudiantil | Aplicar una encuesta para recopilar información sobre la población estudiantil. | 1  | Equipo | Respuestas de encuesta en Google Forms |19 feb 2024  |
-| Llevar a cabo la Prueba Preliminar de Usabilidad | Se realiza una prueba de usabilidad con los miembro del equipo para refinar detalles para la prueba oficial | 1 | Equipo | Reporte de la prueba de usabilidad |  |
-| Diseñar la encuesta en Google Forms para extraer información de los estudiantes | Creacion de preguntas con el objetivo de recolectar informacion especifica sobre los posibles usuarios  | 2 | Eduardo lopez,Ileana Castillo | ... | ... |
-| Diseñar el perfil de las Personas (Estudiantes y Profesores) (Paso 5 Personas) | Reducir demograficamente a los usuarios para poder definir un perfil del usuario que utilizaria el sistema | 2 | Ileana Castillo| ... | ... |
-| Diseñar la Prueba de Usabilidad para el desarrollo de la extensión de estudiantes de VS | diseñar las practicas y pruebas que se le realizarán al sistemas para comprobar su comodidad o facilidad, e identificar la complejidad que puede tener us manejo | 2 | Eduardo lopez | ... | 23 feb 2024 |
-| Creación del Cronograma sobre la realización de actividades/entrega de artefactos de la Primera Entrega | Creacion del cronograma en un formato mas contabilizable basandose en las tareas establecidad en el proyecto  | 1 | Dilian Us | ... | 9 feb 2024 |
-| Realizar el análisis de los resultados de la encuesta en Google Forms (orientado a estudiantes) (Paso 1, Personas) | ... | 2 | Esteban Cime | ... | 27 feb 2024 |
-| Redactar el reporte de las Personas (Paso 1 - 10) | ... | 3 | Damian Gomez | ... | 2 mar 2024 |
-| Establecer los Escenarios de las Personas (Estudiantes y Profesores) (Paso 9 Personas) | ... | 2 | Dilian Us | ... | 24 feb 2024 |
-| Establecimiento de KPI sobre Horas Hombre | ... | ... | Eduardo Lopez | ... | ... |
-| Realizar el reporte de las Pruebas de Usabilidad | ... | 2 | Eduardo Lopez | ... | 5 mar 2024 |
-| Descripción de los requisitos iniciales del proyecto | ... | 3 | Ileana Castillo | ... | 5 mar 2024 |
-| Preparación de la Presentación de la Primera Entrega | ... | 1 | Ileana Castillo | ... | 6 mar 2024 |
-| Llevar a cabo la Presentación de la Primera Entrega | ... | 1 | Equipo | ... | ... |
-| Llevar a cabo la Prueba de Usabilidad | ... | 2 | Equipo | ... | ... |
-| Establecimiento de KPI sobre Retraso de Entregas | ... | ... | Eduardo Lopez | ... | ... |
-| Gestión de carpetas del repositorio (Primera Entrega) | ... | ... | Eduardo Lopez | ... | ... |
+The following section defines the management of activities carried out during the project. The metrics applied around the activities are specified, as well as the completion process of each activity.
+
+## Definition of Done
+
+The direct exposure of the work team to the activities to be performed is done by means of a Trello board, in Kanban format.
+
+> **Link to the Trello board:** https://trello.com/b/msc8SngK/hci-course 
+
+This is composed of 4 sections: **To Do, Doing, Review & Done**. All activities start initially in the **To Do** section, and must go through all the sections until they reach the **Done** section.
+
+### To Do
+Initially specifies all the activities to be carried out during the course. A brief paragraph should be added describing in general terms what each activity is about.
+
+### Doing
+Section for all activities that are currently in the process of implementation. For an activity to be moved from **To Do** to **Doing**, the following requirements must be met:
+
+- At least one team member in charge of that activity must have been assigned to it.
+- An HH KPI value must have been established.
+- A due date must be specified.
+- a description of what is to be done should be added
+- It should have been specified whether an artifact should be obtained by solving the activity.
+
+Finally, an activity must pass to the **Doing** state once the member/members assigned to the activity start to work on its resolution. 
+
+### Review
+
+Once the member/members in charge of an activity finish with the resolution procedure, have generated the corresponding artifacts (in case the activity implies it) and under their criteria have completed the specification of what has been requested, the activity must pass to the ¨**Review** state.
+
+In this activity, a Verification & Validation process must be performed to verify that what was done during the **Doing** phase is fundamentally correct, that it complies with the entire activity specification and that it's error free.
+
+
+### Done
+For an activity to be moved to **Done** status, the V&V procedure must have produced satisfactory results or the required corrections must have been made.
+
+## Human-Hour KPI (HH)
+The Human-Hour KPI is the unit of measurement used in project management to measure the effort required to complete a task.
+
+An Human-Hour is defined as one hour of uninterrupted effort by an average worker.
+
+For the calculation of Human-Hours, all team members are considered to have the same capabilities and work performance, so that 1 Human-Hour is worth the same for each individual.
+
+For project issues, 3 different Human-Hour scores are established:
+
+- 1 KPI
+- 2 KPI
+- 3 KPI
+
+The equivalence in Human-Hours for each score is illustrated in the table below:
+
+| --- | 1 KPI | 2 KPI | 3 KPI |
+| --- | --- |---|---|
+| **Resolution**| 1 - 2 Hours | 3 - 4 Hours | 5 - 8 Hours |
+| **V&V**| 1 hour | 1 Hour | 1 - 2 Hours |
+| **Total Hours**| 2 - 3 Hours | 4 - 5 Hours | 6 - 10 Hours |
+
+
+## Percentage of On-Time Completion KPI (OTC)
+
+
+| Percentage | Status |
+| --- | --- |
+| 0% - 20% | Zero Performance |
+| 21% - 40% | Deficient |
+| 41% - 60% | Complicated |
+| 61% - 80% | Acceptable |
+| 81% - 100% | Desirable |
