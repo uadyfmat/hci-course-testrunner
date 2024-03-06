@@ -1,5 +1,17 @@
 # Activities Management
 
+## Content
+- [Description](#description)
+- [Definition of Done](#definition-of-done)
+- [Human-Hour KPI](#human-hour-kpi-hh)
+- [Percentage of On-Time Completion](#percentage-of-on-time-completion-kpi-otc)
+
+[*Go to Activity Schedule*](./Activity%20Schedule.md)
+
+[*Go Back to Project Definition*](../README.md)
+
+
+## Description
 The following section defines the management of activities carried out during the project. The metrics applied around the activities are specified, as well as the completion process of each activity.
 
 ## Definition of Done
@@ -32,7 +44,7 @@ In this activity, a Verification & Validation process must be performed to verif
 
 
 ### Done
-For an activity to be moved to **Done** status, the V&V procedure must have produced satisfactory results or the required corrections must have been made.
+For an activity to be moved to **Done** status, the V&V procedure must have produced satisfactory results or the required corrections must have been made. Once the activity has been moved to the **Done** status, the activity should be marked as "completed" in the Trello board and it should be determined whether or not the deadline was met.
 
 ## Human-Hour KPI (HH)
 The Human-Hour KPI is the unit of measurement used in project management to measure the effort required to complete a task.
@@ -57,6 +69,7 @@ The equivalence in Human-Hours for each score is illustrated in the table below:
 
 
 ## Percentage of On-Time Completion KPI (OTC)
+
 
 
 | Percentage | Status |
