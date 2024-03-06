@@ -99,57 +99,57 @@ This section is intended to specify the functional requirements of the system to
 
 **Name:** *Install Test-Runner*
 
-**Description:** El sistema deberá ser capaz de instalar la herramienta Test-Runner a través del gestor de dependencias *npm*.
+**Description:** The system must be able to install the Test-Runner tool through the dependency manager *npm*.
 
 **Priority:** High
 
-**Conditions:** El sistema validará si ya se tiene instalada la herramienta Test-Runner antes de volver a intentar instalarla.
+**Conditions:** The system will validate if the Test-Runner tool is already installed before trying to install it again.
 
 **Normal Flow:** 
 
-1. El usuario selecciona la opción para instalar la herramienta Test-Runner.
+1. The user selects the option to install the Test-Runner tool.
 
-2. El sistema valida si se tiene ya una instalación de Test-Runner en el sistema.
+2. The system validates if a Test-Runner installation is already installed on the system.
 
-3. La validación determina que no se poseen instalaciones previas de la herramienta.
+3. The validation determines that there are no previous installations of the tool.
 
-4. El sistema instala la herramienta Test-Runner.
+4. The system installs the Test-Runner tool.
 
 **Alternative Flow:** 
 
-1. El usuario selecciona la opción para instalar la herramienta Test-Runner.
+1. The user selects the option to install the Test-Runner tool.
 
-2. El sistema valida si se tiene ya una instalación de Test-Runner en el sistema.
+2. The system validates if a Test-Runner installation is already installed on the system.
 
-3. La validación determina que ya se tiene instalada la herramienta Test-Runner en el sistema.
+3. The validation determines that the Test-Runner tool is already installed on the system.
 
-4. El sistema alerta al usuario sobre la instalación presente.
+4. The system alerts the user about the present installation.
 
-5. El sistema detiene el proceso de instalación.
+5. The system stops the installation process.
 
 ### FR 5
 
 ---
 
-**Name:** *Show Test-Runner detail's tab*
+**Name:** *Show Test-Runner details tab*
 
-**Description:** El sistema deberá mostrar una pestaña que describa el funcionamiento de la extensión, así como los comandos que puede utilizar el usuario para interactuar con ella, y los apartados nuevos que agrega la extensión.
+**Description:** The system shall display a tab describing how the extension works, as well as the commands that the user can use to interact with it, and the new sections added by the extension.
 
 **Priority:** Medium
 
-**Conditions:** La pestaña aparecerá la primera vez que se instala la extensión, o si el usuario ingresa el comando de *Ayuda*.
+**Conditions:** The tab will appear the first time the extension is installed, or if the user enters the *Help* command.
 
 **Normal Flow 1:** 
 
-1. El usuario instala la extensión.
+1. The user installs the extension.
 
-2. La extensión muestra la pestaña de detalles.
+2. The extension displays the details tab.
 
 **Normal Flow 2:** 
 
-1. El usuario ingresa el comando de *Ayuda*.
+1. The user enters the *Help* command.
 
-2. La extensión muestra la pestaña de detalles.
+2. The extension displays the details tab.
 
 ### FR 6
 
@@ -157,27 +157,27 @@ This section is intended to specify the functional requirements of the system to
 
 **Name:** *Show individual test status*
 
-**Description:** El sistema deberá mostrar, para cada prueba presente en la carpeta del repositorio de forma individual, si ya ha sido ejecutada y ha pasado la prueba, o si por el contrario no ha pasado la prueba.
+**Description:** The system shall show, for each test present in the repository folder individually, if it has already been executed and has passed the test, or if on the contrary it has not passed the test.
 
 **Priority:** Medium
 
-**Conditions:** Los flujos que se presentan a continuación suponen que la carpeta abierta al momento de realizar las acciones corresponde al de una estructura de repositorio correcta para el uso de la herramienta Test-Runner.
+**Conditions:** The flows presented below assume that the folder open at the time of performing the actions corresponds to that of a correct repository structure for the use of the Test-Runner tool.
 
 **Normal Flow:** 
 
-1. El usuario ha ejecutado la prueba individual.
+1. The user has executed the individual test.
 
-2. La prueba ha pasado.
+2. The test has passed.
 
-3. El sistema muestra, para la prueba individual, el estado de *Pasado* de la prueba.
+3. The system displays, for the individual test, the *Pass* status of the test.
 
 **Alternative Flow:** 
 
-1. El usuario ha ejecutado la prueba individual.
+1. The user has executed the individual test.
 
-2. La prueba no ha pasado.
+2. The test has failed.
 
-3. El sistema muestra, para la prueba individual, el estado de *No Pasado* de la prueba.
+3. The system displays, for the individual test, the *Not Passed* status of the test.
 
 ### FR 7
 
@@ -185,27 +185,27 @@ This section is intended to specify the functional requirements of the system to
 
 **Name:** *Show tests batch status*
 
-**Description:** El sistema deberá mostrar, al nivel de la carpeta del repositorio, si todas las pruebas han sido ejecutadas y han pasado, o si por el contrario no han pasado todas las pruebas.
+**Description:** The system shall show, at the repository folder level, whether all tests have been executed and passed, or if not all tests have passed.
 
 **Priority:** Medium
 
-**Conditions:** Los flujos que se presentan a continuación suponen que la carpeta abierta al momento de realizar las acciones corresponde al de una estructura de repositorio correcta para el uso de la herramienta Test-Runner.
+**Conditions:** The flows presented below assume that the folder open at the time of performing the actions corresponds to that of a correct repository structure for the use of the Test-Runner tool.
 
 **Normal Flow:** 
 
-1. El usuario ejecuta todas las pruebas.
+1. The user executes all tests.
 
-2. Todas las pruebas han pasado.
+2. All tests have passed.
 
-3. El sistema muestra el estado de *Pasado* de las pruebas del repositorio.
+3. The system displays the *Passed* status of the repository tests.
 
 **Alternative Flow:** 
 
-1. El usuario ejecuta todas las pruebas.
+1. The user runs all tests.
 
-2. No todas las pruebas han pasado.
+2. Not all tests have passed.
 
-3. El sistema muestra el estado de *No Pasado* de las pruebas del repositorio.
+3. The system displays the *Not Passed* status of the repository tests.
 
 ### FR 8
 
@@ -213,19 +213,19 @@ This section is intended to specify the functional requirements of the system to
 
 **Name:** *Execute individual test*
 
-**Description:** El sistema deberá ser capaz de ejecutar cada una de las pruebas de forma individual.
+**Description:** The system must be capable of running each of the tests individually.
 
 **Priority:** High
 
-**Conditions:** Los flujos que se presentan a continuación suponen que la carpeta abierta al momento de realizar las acciones corresponde al de una estructura de repositorio correcta para el uso de la herramienta Test-Runner.
+**Conditions:** The flows presented below assume that the folder open at the time of performing the actions corresponds to that of a correct repository structure for the use of the Test-Runner tool.
 
 **Normal Flow:**
 
-1. El usuario pulsa el botón / ingresa el comando para ejecutar una prueba.
+1. The user presses the button / enters the command to run a test.
 
-2. El sistema ejecuta la prueba seleccionada.
+2. The system executes the selected test.
 
-3. El sistema actualiza el estado de la prueba.
+3. The system updates the status of the test.
 
 ### FR 9
 
@@ -233,19 +233,19 @@ This section is intended to specify the functional requirements of the system to
 
 **Name:** *Execute tests batch*
 
-**Description:** El sistema deberá ser capaz de ejecutar por lotes todas las pruebas de la carpeta del repositorio.
+**Description:** The system should be able to batch run all tests from the repository folder.
 
 **Priority:** High
 
-**Conditions:** Los flujos que se presentan a continuación suponen que la carpeta abierta al momento de realizar las acciones corresponde al de una estructura de repositorio correcta para el uso de la herramienta Test-Runner.
+**Conditions:** The flows presented below assume that the folder open at the time of performing the actions corresponds to that of a correct repository structure for the use of the Test-Runner tool.
 
 **Normal Flow:** 
 
-1. El usuario pulsa el botón / ingresa el comando para ejecutar todas las pruebas.
+1. The user presses the button / enters the command to run all tests.
 
-2. El sistema ejecuta cada prueba de forma individual.
+2. The system executes each test individually.
 
-3. El sistema actualiza el estado de las pruebas al nivel de la carpeta del repositorio.
+3. The system updates the status of the tests at the repository folder level.
 
 ### FR 10
 
@@ -253,21 +253,20 @@ This section is intended to specify the functional requirements of the system to
 
 **Name:** *Stop tests execution*
 
-**Description:** Durante la ejecución de las pruebas, el sistema deberá tener la opción de detener al momento la ejecución de la prueba.
-
+**Description:** During the execution of the tests, the system shall have the option to stop the execution of the test at any time.
 **Priority:** Medium
 
-**Conditions:** Los flujos que se presentan a continuación suponen que la carpeta abierta al momento de realizar las acciones corresponde al de una estructura de repositorio correcta para el uso de la herramienta Test-Runner.
+**Conditions:** The flows presented below assume that the folder open at the time of performing the actions corresponds to that of a correct repository structure for the use of the Test-Runner tool.
 
 **Normal Flow:** 
 
-1. El usuario pulsa el botón / ingresa el comando para ejecutar una prueba.
+1. The user presses the button / enters the command to run a test.
 
-2. El sistema ejecuta la prueba seleccionada.
+2. The system executes the selected test.
 
-3. Antes de finalizar la prueba, el usuario pulsa el botón / ingresa el comando para detener la prueba.
+3. Before the end of the test, the user presses the / button and enters the command to stop the test.
 
-4. El sistema detiene la ejecución de la prueba.
+4. The system stops the test execution.
 
 ### FR 11
 
@@ -275,7 +274,7 @@ This section is intended to specify the functional requirements of the system to
 
 **Name:** *Show tests result*
 
-**Description:** El sistema deberá ser capaz de mostrar la ejecución de las pruebas realizadas, a partir de la salida devuelta por la herramienta Test-Runner
+**Description:** The system shall be able to display the execution of the tests performed, from the output returned by the Test-Runner tool.
 
 **Priority:** Medium
 
@@ -283,13 +282,13 @@ This section is intended to specify the functional requirements of the system to
 
 **Normal Flow:** 
 
-1. El usuario pulsa el botón / ingresa el comando para ejecutar una prueba.
+1. The user presses the button / enters the command to run a test.
 
-2. El sistema ejecuta la prueba seleccionada.
+2. The system executes the selected test.
 
-3. Se determina si la prueba ha pasado o no.
+3. It is determined whether the test has passed or failed.
 
-4. El sistema muestra al usuario el resultado de la prueba.
+4. The system displays the test result to the user.
 
 ### FR 12
 
@@ -297,35 +296,35 @@ This section is intended to specify the functional requirements of the system to
 
 **Name:** *Update individual test status*
 
-**Description:** El sistema deberá actualizar el estado de una prueba de forma individual una vez que haya sido ejecutada.
+**Description:** The system shall update the status of a test individually once it has been executed.
 
 **Priority:** Medium
 
-**Conditions:** Los flujos que se presentan a continuación suponen que la carpeta abierta al momento de realizar las acciones corresponde al de una estructura de repositorio correcta para el uso de la herramienta Test-Runner.
+**Conditions:** The flows presented below assume that the folder open at the time of performing the actions corresponds to that of a correct repository structure for the use of the Test-Runner tool.
 
 **Normal Flow:** 
 
-1. El usuario pulsa el botón / ingresa el comando para ejecutar una prueba individual.
+1. The user presses the button / enters the command to run an individual test.
 
-2. El sistema ejecuta la prueba seleccionada.
+2. The system executes the selected test.
 
-3. La prueba ha pasado.
+3. The test has passed.
 
-4. El sistema le muestra el resultado de la ejecución al usuario.
+4. The system displays the result of the execution to the user.
 
-5. El sistema actualiza el estado de la prueba individual a *Pasado*.
+5. The system updates the status of the individual test to *Passed*.
 
 **Alternative Flow:** 
 
-1. El usuario pulsa el botón / ingresa el comando para ejecutar una prueba individual.
+1. The user presses the button / enters the command to run an individual test.
 
-2. El sistema ejecuta la prueba seleccionada.
+2. The system executes the selected test.
 
-3. La prueba no ha pasado.
+3. The test has not passed.
 
-4. El sistema le muestra el resultado de la ejecución al usuario.
+4. The system displays the result of the execution to the user.
 
-5. El sistema actualiza el estado de la prueba individual a *No Pasado*.
+5. The system updates the status of the individual test to *Not Passed*.
 
 ### FR 13
 
@@ -333,35 +332,35 @@ This section is intended to specify the functional requirements of the system to
 
 **Name:** *Update tests batch status*
 
-**Description:** El sistema deberá actualizar el estado de las pruebas a nivel de la carpeta del repositorio una vez hayan sido ejecutadas.
+**Description:** The system shall update the status of the tests at the repository folder level once they have been executed.
 
 **Priority:** Medium 
 
-**Conditions:** Los flujos que se presentan a continuación suponen que la carpeta abierta al momento de realizar las acciones corresponde al de una estructura de repositorio correcta para el uso de la herramienta Test-Runner.
+**Conditions:** The flows presented below assume that the folder open at the time of performing the actions corresponds to that of a correct repository structure for the use of the Test-Runner tool.
 
 **Normal Flow:** 
 
-1. El usuario pulsa el botón / ingresa el comando para ejecutar todas las pruebas de forma individual.
+1. The user presses the button / enters the command to run all tests individually.
 
-2. El sistema ejecuta todas las pruebas.
+2. The system executes all tests.
 
-3. Todas las pruebas han pasado.
+3. All tests have passed.
 
-4. El sistema le muestra el resultado de la ejecución al usuario.
+4. The system displays the result of the execution to the user.
 
-5. El sistema actualiza el estado de las pruebas al nivel de la carpeta del repositorio a *Pasado*.
+5. The system updates the status of the tests at the repository folder level to *Passed*.
 
 **Alternative Flow:** 
 
-1. El usuario pulsa el botón / ingresa el comando para ejecutar todas las pruebas de forma individual.
+1. The user presses the button / enters the command to run all tests individually.
 
-2. El sistema ejecuta todas las pruebas.
+2. The system executes all tests.
 
-3. No odas las pruebas han pasado.
+3. Not all tests have passed.
 
-4. El sistema le muestra el resultado de la ejecución al usuario.
+4. The system displays the result of the execution to the user.
 
-5. El sistema actualiza el estado de las pruebas al nivel de la carpeta del repositorio a *No Pasado*.
+5. The system updates the status of the tests at the repository folder level to *Not Passed*.
 
 ## Non-Functional Requirements
 
