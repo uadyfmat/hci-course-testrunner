@@ -1,23 +1,23 @@
 Schedule
 
-**Esta tabla resume las actividades del proyecto, incluyendo su descripción, KPI, responsable, salida esperada y fecha límite.**
+**This table summarizes the project activities, including its description, KPI, responsible person, expected output and deadline.**
 
-| Actividad | Descripción | KPI | Encargado | Salida (artefacto) | Deadline |
+| Activity | Description | KPIs | Manager | Exit (artifact) | Deadline |
 |---|---|---|---|---|---|
-| Aplicación de la encuesta sobre la población estudiantil | Aplicar una encuesta para recopilar información sobre la población estudiantil. | 1  | Equipo | Respuestas de encuesta en Google Forms |19 feb 2024  |
-| Llevar a cabo la Prueba Preliminar de Usabilidad | Se realiza una prueba de usabilidad con los miembro del equipo para refinar detalles para la prueba oficial | 1 | Equipo | Reporte de la prueba de usabilidad |  |
-| Diseñar la encuesta en Google Forms para extraer información de los estudiantes | Creacion de preguntas con el objetivo de recolectar informacion especifica sobre los posibles usuarios  | 2 | Eduardo lopez,Ileana Castillo | ... | ... |
-| Diseñar el perfil de las Personas (Estudiantes y Profesores) (Paso 5 Personas) | Reducir demograficamente a los usuarios para poder definir un perfil del usuario que utilizaria el sistema | 2 | Ileana Castillo| ... | ... |
-| Diseñar la Prueba de Usabilidad para el desarrollo de la extensión de estudiantes de VS | diseñar las practicas y pruebas que se le realizarán al sistemas para comprobar su comodidad o facilidad, e identificar la complejidad que puede tener us manejo | 2 | Eduardo lopez | ... | 23 feb 2024 |
-| Creación del Cronograma sobre la realización de actividades/entrega de artefactos de la Primera Entrega | Creacion del cronograma en un formato mas contabilizable basandose en las tareas establecidad en el proyecto  | 1 | Dilian Us | ... | 9 feb 2024 |
-| Realizar el análisis de los resultados de la encuesta en Google Forms (orientado a estudiantes) (Paso 1, Personas) | ... | 2 | Esteban Cime | ... | 27 feb 2024 |
-| Redactar el reporte de las Personas (Paso 1 - 10) | ... | 3 | Damian Gomez | ... | 2 mar 2024 |
-| Establecer los Escenarios de las Personas (Estudiantes y Profesores) (Paso 9 Personas) | ... | 2 | Dilian Us | ... | 24 feb 2024 |
-| Establecimiento de KPI sobre Horas Hombre | ... | ... | Eduardo Lopez | ... | ... |
-| Realizar el reporte de las Pruebas de Usabilidad | ... | 2 | Eduardo Lopez | ... | 5 mar 2024 |
-| Descripción de los requisitos iniciales del proyecto | ... | 3 | Ileana Castillo | ... | 5 mar 2024 |
-| Preparación de la Presentación de la Primera Entrega | ... | 1 | Ileana Castillo | ... | 6 mar 2024 |
-| Llevar a cabo la Presentación de la Primera Entrega | ... | 1 | Equipo | ... | ... |
-| Llevar a cabo la Prueba de Usabilidad | ... | 2 | Equipo | ... | ... |
-| Establecimiento de KPI sobre Retraso de Entregas | ... | ... | Eduardo Lopez | ... | ... |
-| Gestión de carpetas del repositorio (Primera Entrega) | ... | ... | Eduardo Lopez | ... | ... |
+| Application of the survey on the student population | Apply a survey to collect information about the student population. | 1 | Team | Survey responses in Google Forms | Feb 19, 2024 |
+| Conduct Preliminary Usability Test | A usability test is carried out with team members to refine details for the official test | 1 | Team | Usability test report | |
+| Design the survey in Google Forms to extract information from students | Creation of questions with the objective of collecting specific information about potential users | 2 | Eduardo Lopez, Ileana Castillo | ... | ... |
+| Design the profile of the People (Students and Teachers) (Step 5 People) | Demographically reduce users to be able to define a profile of the user who would use the system | 2 | Ileana Castillo| ... | ... |
+| Design the Usability Test for the development of the VS student extension | design the practices and tests that will be carried out on the systems to check their comfort or ease, and identify the complexity that their management may have | 2 | Eduardo Lopez | ... | Feb 23, 2024 |
+| Creation of the Schedule for carrying out activities/delivery of artifacts from the First Delivery | Creation of the schedule in a more countable format based on the tasks established in the project | 1 | Dilian Us | ... | Feb 9, 2024 |
+| Perform the analysis of the survey results in Google Forms (oriented towards students) (Step 1, People) | ... | 2 | Esteban Cime | ... | Feb 27, 2024 |
+| Write the People report (Step 1 - 10) | ... | 3 | Damian Gomez | ... | Mar 2, 2024 |
+| Establish People Scenarios (Students and Teachers) (Step 9 People) | ... | 2 | Dilian Us | ... | Feb 24, 2024 |
+| Establishment of KPI on Man Hours | ... | ... | Eduardo Lopez | ... | ... |
+| Prepare the Usability Test report | ... | 2 | Eduardo Lopez | ... | Mar 5, 2024 |
+| Description of initial project requirements | ... | 3 | Ileana Castillo | ... | Mar 5, 2024 |
+| Preparation of the Presentation of the First Delivery | ... | 1 | Ileana Castillo | ... | Mar 6, 2024 |
+| Carry out the Presentation of the First Delivery | ... | 1 | Team | ... | ... |
+| Conduct Usability Test | ... | 2 | Team | ... | ... |
+| Establishment of KPI on Delivery Delays | ... | ... | Eduardo Lopez | ... | ... |
+| Repository folder management (First Delivery) | ... | ... | Eduardo Lopez | ... | ... |
