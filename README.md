@@ -50,11 +50,12 @@ The activities carried out for the design and development of the project during 
 
 ### Deliverable Artefacts
 The deliverable artefacts for the first delivery are presented below:
-- [Activities Schedule]()
-- [Survey results]()
-- [Profile of Personas (Students and Teachers)]()
-- [Personas Scenarios (Students and Teachers)]()
-- [Analysis of the Personas methodology]()
-- [Exploratory Test Design]()
-- [Exploratory Tests Reports]()
-- [Functional and Non-Functional Requirements]()
+- [Activities Schedule](./Activities%20Management/Activity%20Schedule.md)
+- [Activities Management Definition (Definition of Done, Metrics Implemented)](./Activities%20Management/README.md)
+- [Survey results](./User%20Analysis/User%20Research/survey%20(students).md)
+- [Profile of Personas (Students and Teachers)](./User%20Analysis/User%20Modeling/Personas%20Profiles.md)
+- [Personas Scenarios (Students and Teachers)](./User%20Analysis/User%20Modeling/Personas%20Scenarios.md)
+- [Analysis of the Personas methodology](./User%20Analysis/User%20Modeling/Personas%20Analysis.md)
+- [Exploratory Test Design](./Exploratory%20Tests/Exploratory%20Test%20Design.md)
+- [Exploratory Tests Reports](./Exploratory%20Tests/Exploratory%20Tests%20Reports)
+- [Requirements Definition](./Requirements/Requirements%20Definition.md)
