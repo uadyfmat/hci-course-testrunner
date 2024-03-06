@@ -1,17 +1,26 @@
+# Personas Profiles
 
-# Jose - “*Software Engineer Student*” 
+## Content
+
+- [Student Profile](#jose---software-engineer-student)
+
+- [Professor Profile](#carlos---software-programming-professor)
+
+[*Go to Personas Scenarios*](./Personas%20Scenarios.md)
+
+## Jose - “*Software Engineer Student*” 
 
 *“I want to have an easy way to beginning of my learning path in programming”* 
 
 ![Student](/resources/Student.jpg)
 
-## Description: 
+### Description: 
 
 Jose is a current software engineering student who has recently passed his university entrance exam. He is extremely excited about expanding his knowledge and forming a professional career in software engineering, but he has a small concern: he has never experienced what exactly “software engineering”, “algorithm development” or even “programming” is. In high school, he never took a programming crash course or watched a YouTube tutorial, so he is certain that he will be forced to study more respect his career partners. 
 
  
 
-## Key Characteristics 
+### Key Characteristics 
 
 * Age: 19-21. 
 
@@ -23,22 +32,22 @@ Jose is a current software engineering student who has recently passed his unive
 
  
 
-## Goals:
+### Goals:
 
 * Dedicate extra time to his studies. 
 * In a matter of possible, find a way (or a tool) that could help his first experiences in learning programming topics. 
 * Finish in time his university career. 
 
-# Carlos - “*Software Programming Professor*” 
+## Carlos - “*Software Programming Professor*” 
 
-*“Damn, another group of 30 students”* 
+*“It is essential to give feedback on my students' coding exercises.”* 
 
 ![Professor](/resources/Professor.jpg)
 
-## Description 
+### Description 
 Carlos teaches programming courses at the university where he works. He is excited to start the new Principles of Programming course; however, he did not expect the academic department to assign him a group with too many students. This makes Carlos feel overwhelmed about how he will evaluate the students; he has no idea how he will review so many assignments and exams. He also fears that this workload will extend beyond his work hours. 
 
-## Key Characteristics 
+### Key Characteristics 
 
 * Age: 30-50. 
 
@@ -46,7 +55,7 @@ Carlos teaches programming courses at the university where he works. He is excit
 
 * Has years of programming experience. 
 
-## Goals 
+### Goals 
 
 * Provide quick feedback on their students' work. 
 
