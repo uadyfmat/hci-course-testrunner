@@ -1,8 +1,17 @@
-### Scenarios for Testrunner
+# Scenarios for Test-Runner
 
-**General information for the student scenarios:**
+## Content
+- [Students Scenarios](#general-information-for-the-students-scenarios)
+- [Professors Scenarios](#general-information-for-the-professors-scenarios)
 
-#### Scenario 1
+[*Go to Personas Profiles Definition*](./Personas%20Profiles.md)
+
+
+## General Information for the Students Scenarios
+
+### Scenario 1
+
+---
 
 - **Scenario Name:** Running algorithm tests in vscode with local testrunner and git bash
 - **Persona:** Software engineering student in early semesters
@@ -63,7 +72,9 @@
   - Testrunner provides clear feedback on the obtained results.
   - Testrunner offers an easy way to conduct exercises without local installation.
 
-#### Scenario 2
+### Scenario 2
+
+---
 
 - **Scenario Name:** Running algorithm tests with testrunner through commits to a GitHub classroom repository using vscode as a code editor
 - **Persona:** Software engineering student in early semesters
@@ -122,27 +133,24 @@
   - Testrunner provides clear feedback on the obtained results.
   - Testrunner offers an easy way to conduct exercises without the need for local installation.
 
-# **General information for the professors scenarios:**
-#### Scenario 1
+## General Information for the Professors Scenarios
 
-## Scenario: Create input/output template files for exercises
+### Scenario 1
 
-## Person: Programming Instructor
+---
 
-### Situation
-The instructor needs to edit input/output templates in the GitHub repository according to their needs and exercises.
+- **Scenario Name:** Create input/output template files for exercises.
+- **Persona:** Programming Instructor.
+- **Situation:** The instructor needs to edit input/output templates in the GitHub repository according to their needs and exercises.
+- **Technology:** Test-Runner, GitHub.
 
-### Technology
-- Testrunner
-- GitHub
-
-## Questions
+**Questions:**
 
 - **What challenges does the instructor face in this situation?**
    - Lack of time to manually review all tests.
    - Inconsistency in the evaluation of the tests.
 
--**What specific steps does the instructor take to achieve their goal?**
+- **What specific steps does the instructor take to achieve their goal?**
    - Obtain the repository with Testrunner.
    - Edit the input/output templates to use them in their own exercises.
    - Perform tests with the repository to verify that their templates are well implemented.
@@ -150,24 +158,25 @@ The instructor needs to edit input/output templates in the GitHub repository acc
    - Review the results of the tests.
    - Provide feedback to the students.
 
--**What information does the instructor need to complete each step?**
+- **What information does the instructor need to complete each step?**
    - Location of the code tests.
    - Instructions on how to edit input/output templates and create new exercises.
    - Instructions to run the tests in Testrunner.
    - Interpretation of the results of the tests.
 
--**What obstacles or difficulties can the instructor encounter?**
+- **What obstacles or difficulties can the instructor encounter?**
    - Errors in the configuration of the tests.
    - Lack of time to review all student comments.
 
-**How does Testrunner help the user overcome these obstacles?**
+- **How does Testrunner help the user overcome these obstacles?**
    - Automates the execution of tests, saving time.
    - Provides reports with the results of the tests.
 
-## Result
+**Expected Results:**
+
 - **Expected from the User:**
--The instructor can review and correct code tests more efficiently.
--Students receive more accurate and timely feedback on their work.
+  - The instructor can review and correct code tests more efficiently.
+  - Students receive more accurate and timely feedback on their work.
 - **System Perspective Results:**
   - Testrunner identifies both failed and successful exercises.
   - Testrunner provides clear feedback on the obtained results.
