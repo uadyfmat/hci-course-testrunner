@@ -372,9 +372,9 @@ This section is intended to specify the functional requirements of the system to
 
 **Description:** The system must be compatible with OS that are compatible with VSCode, such as Windows, macOS and Linux.
 
-**Priority:** High
+**Priority:** Medium
 
-**Quality Attribute Related:** wasd
+**Quality Attribute Related:** portability
 
 **Metric Related:** [wasd](#)
 
@@ -388,9 +388,83 @@ This section is intended to specify the functional requirements of the system to
 
 **Priority:** High
 
-**Quality Attribute Related:** wasd
+**Quality Attribute Related:** understandability
 
 **Metric Related:** [wasd](#)
+
+### NFR 3
+
+---
+
+**Name:** *Interaction with github & test-runner*
+
+**Description:** the system must be able to interact with git to make commits and with test-runner to obtain test results
+
+**Priority:** High
+
+**Quality Attribute Related:** interoperability
+
+**Metric Related:** [wasd](#)
+
+### NFR 4
+
+---
+
+**Name:** *Test Scores*
+
+**Description:** The system must provide feedback on the user's actions when making commits and running tests.
+
+**Priority:** High
+
+**Quality Attribute Related:** System feedback
+
+**Metric Related:** [wasd](#)
+
+### NFR 5
+
+---
+
+**Name:** *User Operational Simplicity*
+
+**Description:** The system should minimize the number of steps required to perform common tasks, reducing operational complexity and avoiding redundancy of functions.
+
+**Priority:** High
+
+**Quality Attribute Related:** Simplicity
+
+**Metric Related:** [wasd](#)
+
+
+### NFR 6
+
+---
+
+**Name:** *Simplicity in the user interface*
+
+**Description:** The user interface should display only essential functions on the main screen and provide advanced options only when the user requests them.
+
+**Priority:** High
+
+**Quality Attribute Related:** Simplicity
+
+**Metric Related:** [wasd](#)
+
+### NFR 7
+
+---
+
+**Name:** *Easy to use*
+
+**Description:** It should provide contextual help to improve efficiency and user understanding.
+
+**Priority:** High
+
+**Quality Attribute Related:** Usability
+
+**Metric Related:** [wasd](#)
+
+
+
 
 ## Metrics Related to Non-Functional Requirements
 
