@@ -1,6 +1,7 @@
-Schedule
+# Activity Schedule
 
-**This table summarizes the project activities, including its description, KPI, responsible person, expected output and deadline.**
+## Description
+This table summarizes the project activities, including its description, KPI, responsible person, expected output and deadline.
 
 | Activity | Description | KPIs | Manager | Exit (artifact) | Deadline |
 |---|---|---|---|---|---|

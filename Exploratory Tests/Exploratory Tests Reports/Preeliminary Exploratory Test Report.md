@@ -1,10 +1,20 @@
 # Reporte de la Prueba Exploratoria Preeliminar 
 
 ## Navegación Rápida
-- [Ver el Diseño de las Pruebas Exploratorias](../Exploratory%20Test%20Design.md)
-- [Ver el Reporte de la Primera Prueba Exploratoria](./1st%20Exploratory%20Test%20Report.md)
-- [Ver el Reporte de la Segunda Prueba Exploratoria](./2nd%20Exploratory%20Test%20Report.md)
-- [Ver el Reporte de la Tercera Prueba Exploratoria](./3rd%20Exploratory%20Test%20Report.md)
+- [Resumen](#resumen)
+- [Perfil del Sujeto de Prueba](#perfil-del-sujeto-de-prueba)
+- [Opinión del Sujeto de Prueba sobre el Sistema](#opinión-del-sujeto-de-prueba-sobre-el-sistema)
+- [Posibles Áreas de Oportunidad Encontradas](#posibles-áreas-de-oportunidad-encontradas)
+
+[*Ver el **Diseño de las Pruebas Exploratorias***](../Exploratory%20Test%20Design.md)
+
+[*Ver el **Reporte de la Primera Prueba Exploratoria***](./1st%20Exploratory%20Test%20Report.md)
+
+[*Ver el **Reporte de la Segunda Prueba Exploratoria***](./2nd%20Exploratory%20Test%20Report.md)
+
+[*Ver el **Reporte de la Tercera Prueba Exploratoria***](./3rd%20Exploratory%20Test%20Report.md)
+
+[*Volver a la **Definición del Proyecto***](../../README.md)
 
 ## Resumen 
 
@@ -47,3 +57,16 @@ La aplicación de la prueba y la opinión directa del sujeto pueden ayudar a inf
 - Las indicaciones proporcionadas de manera personal al sujeto de prueba le ayudaron enormemente a configurar y cumplir los requisitos previos para la realización de la prueba. El sujeto cree que, de habérsele proporcionado las indicaciones a través de unas instrucciones escritas (Por ejemplo, de la descripción de la página de una extensión en VSCode, o a través de un archivo README.md), aún así hubiera podido eventualmente utilizar el sistema. 
 
 - El apartado para visualizar el resultado del test estuvo un poco escondido para el sujeto. Durante la realización de la prueba, se le tuvo que indicar cómo ver si los commits realizados por el sujeto pasaron el test automatizado. 
+
+---
+### Navegación Rápida
+
+[*Ver el **Diseño de las Pruebas Exploratorias***](../Exploratory%20Test%20Design.md)
+
+[*Ver el **Reporte de la Primera Prueba Exploratoria***](./1st%20Exploratory%20Test%20Report.md)
+
+[*Ver el **Reporte de la Segunda Prueba Exploratoria***](./2nd%20Exploratory%20Test%20Report.md)
+
+[*Ver el **Reporte de la Tercera Prueba Exploratoria***](./3rd%20Exploratory%20Test%20Report.md)
+
+[*Volver a la **Definición del Proyecto***](../../README.md)

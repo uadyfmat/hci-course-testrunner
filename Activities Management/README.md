@@ -6,9 +6,9 @@
 - [Human-Hour KPI](#human-hour-kpi-hh)
 - [Percentage of On-Time Completion](#percentage-of-on-time-completion-kpi-otc)
 
-[*Go to Activity Schedule*](./Activity%20Schedule.md)
+[*Go to **Activity Schedule***](./Activity%20Schedule.md)
 
-[*Go Back to Project Definition*](../README.md)
+[*Go Back to **Project Definition***](../README.md)
 
 
 ## Description
@@ -79,3 +79,10 @@ The equivalence in Human-Hours for each score is illustrated in the table below:
 | 41% - 60% | Complicated |
 | 61% - 80% | Acceptable |
 | 81% - 100% | Desirable |
+
+---
+### Quick Navigation
+
+[*Go to **Activity Schedule***](./Activity%20Schedule.md)
+
+[*Go Back to **Project Definition***](../README.md)
