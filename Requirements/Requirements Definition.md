@@ -462,22 +462,3 @@ This section is intended to specify the functional requirements of the system to
 **Quality Attribute Related:** Usability
 
 **Metric Related:** [wasd](#)
-
-
-
-
-## Metrics Related to Non-Functional Requirements
-
-### Metric 1
-
----
-
-**Name:** 
-
-**Description:** 
-
-**Usage:** 
-
-### Metric 2
-
----
