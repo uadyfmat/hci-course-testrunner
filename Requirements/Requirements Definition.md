@@ -33,7 +33,7 @@
     - [Simplicity](#simplicity)
     - [Efficiency](#efficiency)
 
-[*Go to Metrics Related to Non-Functional Requirements*](./Metrics%20Related%20to%20NFR.md)
+[*Go to Metrics Related to Quality Attributes*](./Metrics%20Related%20to%20Quality%20Attributes.md)
 
 ## Description
 This section is intended to specify the functional requirements of the system to be developed during the period January-May 2024. In previous phases of the project, it was determined that the way to mitigate the usability problems present in the *Test-Runner* system and its currently established form of use, is through an extension of Visual Studio Code, which allows users to use the tool locally. 
@@ -391,7 +391,7 @@ This section is intended to specify the functional requirements of the system to
 
 ### NFR 1
 
-**Name:** *Compatibility with differents OS*
+**Name:** *Compatibility with Differents OS*
 
 **Description:** The system must be compatible with OS that are compatible with VSCode, such as Windows, macOS and Linux.
 
@@ -403,7 +403,7 @@ This section is intended to specify the functional requirements of the system to
 
 ### NFR 2
 
-**Name:** *Ease of configuration*
+**Name:** *Ease of Configuration*
 
 **Description:** The system should provide clear and simple instructions for installation and initial configuration.
 
@@ -415,7 +415,7 @@ This section is intended to specify the functional requirements of the system to
 
 ### NFR 3
 
-**Name:** *Interaction with github & test-runner*
+**Name:** *Interaction with Github & Test-Runner*
 
 **Description:** the system must be able to interact with git to make commits and with test-runner to obtain test results
 
@@ -544,7 +544,6 @@ This section is intended to specify the functional requirements of the system to
 **Priority:** High.
 
 **Metric Related:** [wasd](#)
-
 
 ## References
 
