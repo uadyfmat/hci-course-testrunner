@@ -390,7 +390,7 @@ This section is intended to specify the functional requirements of the system to
 
 ## Non-Functional Requirements
 
-> **Note:** The **Priority** of non-functional requirements was established by the identification of usability problems detected in the [Exploratory Tests](../Exploratory%20Tests/Exploratory%20Tests%20Reports/).
+> **Note:** The **Priority** of Non-Functional Requirements was established by the identification of usability problems detected in the [Exploratory Tests](../Exploratory%20Tests/Exploratory%20Tests%20Reports/).
 
 ### NFR 1
 
@@ -492,7 +492,7 @@ This section is intended to specify the functional requirements of the system to
 
 > **Note 1:** The **Priority** of Quality Attributes was established by the identification of usability problems detected in the [Exploratory Tests](../Exploratory%20Tests/Exploratory%20Tests%20Reports/).
 
-> **Note 2:** The Quality Attributes with **High Priority** are eligible for measurement through formal metrics.
+> **Note 2:** The Quality Attributes with **High Priority** are eligible for measurement through formal metrics and procedures.
 
 ### Portability
 

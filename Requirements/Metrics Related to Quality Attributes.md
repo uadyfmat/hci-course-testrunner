@@ -2,22 +2,53 @@
 
 ## Content
 - [Effectiveness Rate of Performing Tasks](#effectiveness-rate-of-performing-tasks)
+  - [Metric, Object and  Measurement Attribute](#metric-object-and-measurement-attribute)
+  - [Methodology](#methodology)
+  - [Measurement Time](#measurement-time)
+  - [Tools](#tools)
+  - [Data Storage Media](#data-storage-media)
+  - [Measurement Procedure](#measurement-procedure)
+  - [Activities Calendar](#activities-calendar)
 - [Number of User Errors](#number-of-user-errors)
+  - [Metric, Object and  Measurement Attribute](#metric-object-and-measurement-attribute-1)
+  - [Methodology](#methodology-1)
+  - [Measurement Time](#measurement-time-1)
+  - [Tools](#tools-1)
+  - [Data Storage Media](#data-storage-media-1)
+  - [Measurement Procedure](#measurement-procedure-1)
+  - [Activities Calendar](#activities-calendar-1)
 - [Interface Satisfaction Level](#interface-satisfaction-level)
+  - [Metric, Object and  Measurement Attribute](#metric-object-and-measurement-attribute-2)
+  - [Methodology](#methodology-2)
+  - [Measurement Time](#measurement-time-2)
+  - [Tools](#tools-2)
+  - [Data Storage Media](#data-storage-media-2)
+  - [Measurement Procedure](#measurement-procedure-2)
+  - [Activities Calendar](#activities-calendar-2)
 - [Interface Simplicity Level](#interface-simplicity-level)
+  - [Metric, Object and  Measurement Attribute](#metric-object-and-measurement-attribute-3)
+  - [Methodology](#methodology-3)
+  - [Measurement Time](#measurement-time-3)
+  - [Tools](#tools-3)
+  - [Data Storage Media](#data-storage-media-3)
+  - [Measurement Procedure](#measurement-procedure-3)
+  - [Activities Calendar](#activities-calendar-3)
+
 ## Description
+
+This document is intended for the definition of the metrics used to measure particular Quality Attributes, as well as the methodologies and procedure for applying each metric.
 
 ## Metrics
 
 ### **Effectiveness Rate of Performing Tasks**
 
-#### ***Metric, Object and  Measurement Attribute***
+#### ***Metric, Object and Measurement Attribute***
 
-* Metric: Efficiency based on time
+* **Metric:** Efficiency based on time.
 
-* Object: Application of therapeutic complement.
+* **Object:** Application of therapeutic complement.
 
-* Measurement attribute: Usability – Efficiency.
+* **Measurement attribute:** [Usability – Efficiency](../Requirements/Requirements%20Definition.md#efficiency).
 
 #### ***Methodology***
 
@@ -29,9 +60,9 @@ It is thanks to its simplicity that the completion rate is a very easy to unders
 
 $$ Effectivenes = \frac{ST}{TT} \times 100$$
 
-$ST$ = Number of successfully completed tasks
+$ST$ = Number of successfully completed tasks.
 
-$TT$ = Total number of assigned tasks
+$TT$ = Total number of assigned tasks.
 
 While you would expect to always aim for a 100% completion rate, according to a study by Jeff Sauro, the average task completion rate is 78% (based on an analysis of a total of 1200 tasks).
 
@@ -43,39 +74,45 @@ As explained previously, the metric can be carried out together with the collect
 
 It is for the same reason that it can be performed at any stage of program development to individually check the effectiveness of each task, independent of any other (for example, to test the effectiveness of a ready-made module without the need to wait for the program is complete).
 
-#### ***Activities Calendar***
-
-* Day 1: Preparation of the spreadsheet for the measurement process and recording of results.
-* Day 1: Select the RPs and ask about their schedule availability.
-* Day 1: The ET will establish the fixed times to carry out the tests of the task completion rate, in addition to communicating it to the RPs.
-* Day 2: The process of testing each of the tasks by ET is carried out, and each of the results obtained will be recorded by the ET.
-* Day 3: The effectiveness calculation is made (by means of the completion rate of each of the tasks) and the corresponding graphs resulting from each task.
-* Day 3: The results obtained and the identification of opportunities for improvement in the application are analyzed.
-
 #### ***Tools***
 
-* Computer equipment with Internet connection.
-* Sheets.
+* Computer equipment with internet connection.
+* Spreadsheets.
 
 #### ***Data Storage Media***
 
 * Spreadsheets with the sections of each task and the fulfillment of these by each test user together with the corresponding value of success or not (1 or 0, respectively), together with the completion rate of each task.
 * Sheets of paper with the same data mentioned above (optional in case you want to have a backup, or for simple convenience).
 
+
 #### ***Measurement Procedure***
 
-Step by step how the measurement will be carried out
+The step by step procedure for the measurement of the metric is detailed below:
 
-* The RPs that will test the system are defined.
-* Once the data storage medium is ready and the date and time of the tests with the RPs have been set, they are asked to carry out each of the system activities:
+* The Test Subjects that will test the system are defined.
+* Once the data storage medium is ready and the date and time of the tests with the Test Subjects have been set, they are asked to carry out each of the system activities:
   * Used one function in the application.
   * Search for specific news in the information section from a text provided by each of the PRs.
   * Filter the news by each of the different fields available.
   * Delete a saved activity.
-* At the time each activity is carried out by each RP member, a value of '1' will be assigned if the assigned task has been completed without the help of the ET, otherwise a '0' will be recorded. '.
+* At the time each activity is carried out by each Test Subject, a value of '1' will be assigned if the assigned task has been completed without the help of the Test Team, otherwise a '0' will be recorded.
 * Once the activity is finished, the sum of the values ​​obtained from each activity divided by the total number of users will be made in order to obtain the completion rate of each task, that is, the effectiveness.
 * Make the corresponding graphs of the percentage obtained for each task.
 * Analyze the results obtained, draw conclusions and identify opportunities for improvement.
+
+#### ***Activities Calendar***
+
+Prior to the application of usability tests, the testing team must have done the following activities:
+
+* Select the Test Subjects and ask them about their schedule availability.
+* The Test Team will set a date and time for the application of the test and will communicate the chosen date to the Test Subjects through Microsoft Teams, email or DM.
+
+The following activities will be carried out in chronological order for the application of the test:
+
+* Day 1: Preparation of the spreadsheet for the measurement process and recording of results.
+* Day 2: The process of testing each of the tasks by the Test Subject and the Test Team is carried out, and each of the results obtained will be recorded by the Test Team.
+* Day 3: The effectiveness calculation is made (by means of the completion rate of each of the tasks) and the corresponding graphs resulting from each task.
+* Day 3: The results obtained and the identification of opportunities for improvement in the application are analyzed.
 
 ---
 
@@ -83,9 +120,9 @@ Step by step how the measurement will be carried out
 
 #### ***Metric, Object and Measurement Attribute***
 
-* Metric: Efficiency based on time
-* Object: Application of therapeutic complement.
-* Measurement attribute: Usability – Efficiency
+* **Metric:** Efficiency based on time.
+* **Object:** Application of therapeutic complement.
+* **Measurement attribute:** [Usability – Efficiency](../Requirements/Requirements%20Definition.md#efficiency).
 
 #### ***Methodology***
 
@@ -115,16 +152,9 @@ In this case, both errors are considered with the same level of importance, so, 
 
 This metric will be applied at the time of the system test, for this the applicator will need to be monitoring the user in order to observe their behavior with the system.
 
-#### ***Activities Calendar***
-
-* Day 1: The group of people to be evaluated is selected, whose only requirement is the basic command of desktop computers, they are asked about their time availability and analyzed.
-* Day 1: The work team defines the date and time of the tests and the participants are informed of them.
-* Day 2: The corresponding metrics are applied and the results are collected.
-* Day 3: The data obtained is analyzed and possible changes are planned.
-
 #### ***Tools***
 
-* Computer equipment with Internet connection.
+* Computer equipment with internet connection.
 
 #### ***Data Storage Media***
 
@@ -134,15 +164,27 @@ This metric will be applied at the time of the system test, for this the applica
 
 As it is a simple count, when a user makes an error, it will be updated in the corresponding cell in the spreadsheet, later, a sum will be made with the value of the cells corresponding to each type of error, finally it will be classified based on the result.
 
+#### ***Activities Calendar***
+Prior to the application of usability tests, the testing team must have done the following activities:
+
+* Select the Test Subjects and ask them about their schedule availability.
+* The Test Team will set a date and time for the application of the test and will communicate the chosen date to the Test Subjects through Microsoft Teams, email or DM.
+
+The following activities will be carried out in chronological order for the application of the test:
+
+* Day 1: The Test Team prepare the environment in which the test subjects will test the system.
+* Day 2: The corresponding metrics are applied and the results are collected.
+* Day 3: The data obtained is analyzed and possible changes are planned.
+
 ---
 
 ### **Interface Satisfaction Level**
 
 #### ***Metric, Object and Measurement Attribute***
 
-* Metric: Interface satisfaction level
-* Object: Application of therapeutic complement.
-* Measurement attribute: Usability – Satisfaction
+* **Metric:** Interface satisfaction level.
+* **Object:** Application of therapeutic complement.
+* **Measurement attribute:** [Usability – Satisfaction](../Requirements/Requirements%20Definition.md#satisfaction).
 
 #### ***Methodology***
 
@@ -183,7 +225,9 @@ With the benefit of 30 years of use and data from over 10,000 responses and hund
 * Another variation on using words to describe the SUS is to think in terms of what’s “acceptable” or “not acceptable.” These terms were assigned for when the SUS was well above average or well below average.
 * Finally, there is a strong correlation between the SUS and the Net Promoter Score (NPS). To achieve a Promoter classification, a SUS score needs to be reasonably close to 81 on average (which is a high bar). Detractors are associated with an average SUS of 53 and below and Passives are the scores in between (averaging 70). More information in: [Usability and Customer Loyalty- Correlation Between NPS and SUS](https://www.theuxbookmark.com/ux-articles-and-research-papers/usability-engineering/does-better-usability-increase-customer-loyalty-correlation-between-the-net-promoter-score-and-the-system-usability-scale-sus/).
 
-*Table-SUSResults.* Percentiles, grades, adjectives, and NPS categories to describe raw SUS scores:
+Percentiles, grades, adjectives, and NPS categories to describe raw SUS scores:
+
+*Table. SUS Results.*
 
 |Grade|SUS score|Percentile range|Adjective|Acceptable|NPS|
 | :- | :- | :- | :- | :- | :- |
@@ -200,15 +244,7 @@ With the benefit of 30 years of use and data from over 10,000 responses and hund
 
 #### ***Measurement Time***
 
-This metric will be applied when the RP finish the application tests, then, the ET will immediately deliver the questionnaire to them to determinate the Interface Satisfaction Level.
-
-#### ***Activities Calendar***
-
-* Day 1: Prepare the questionnaires that will be delivered to the PR and the storage media for the data.
-* Day 1: The work team defines the date and time of the tests and the participants are informed of them.
-* Day 2: The test session of the application is carried out and the results of the questionnaires are collected.
-* Day 3: Calculations for the metric are performed and the results are interpreted.
-* Day 3: The data obtained is analyzed and possible changes are planned.
+This metric will be applied when each Test Subjhect finish the application tests, then, the Test Team will immediately deliver the questionnaire in order to measure the metric.
 
 #### ***Tools***
 
@@ -223,8 +259,7 @@ The responses to the questionnaires will be stored in spreadsheets or sheets of 
 | :- | :- | :- | :- | :-: | :- | :- |
 |~|~|~|~|~|~|~|
 
-
-* For each user who answers the questionnaire, there will be a different row.
+* For each Test Subject who answers the questionnaire, there will be a different row.
 * In the *Timestamp* column, the time and date on which the survey was applied is recorded using the following format: mm/dd/yyyy hh:mm:ss (*4/28/2022 2:04:46*, for example).
 * The following 10 columns correspond to the different statements of the SUS questionnaire. Therefore, a value from 1 to 5 will be entered in each column based on the user's response to that question.
 * For each row, there is a *SUS Score* column in which the raw SUS result should be placed, that is, just the calculation obtained by performing the subtractions corresponding to each question and multiplying the value obtained by adding them by 2.5.
@@ -234,9 +269,23 @@ The responses to the questionnaires will be stored in spreadsheets or sheets of 
 
 * The Test Subject is asked to answer the SUS questionnaire after finishing the test session.
 * For each participant:
-  * The Testing Team records each answer in the corresponding row of the participant.
+  * The Test Team records each answer in the corresponding row of the participant.
 * The Excel file already has the formula for the SUS score of each row, so after finishing the questions and putting the answers in each cell, the SUS score will be calculated automatically.
 * The responses from all PRs are averaged and recorded in the *Average* column.
+
+#### ***Activities Calendar***
+Prior to the application of usability tests, the testing team must have done the following activities:
+
+* Select the Test Subjects and ask them about their schedule availability.
+* The Test Team will set a date and time for the application of the test and will communicate the chosen date to the Test Subjects through Microsoft Teams, email or DM.
+* Prepare the questionnaires that will be delivered to the PR and the storage media for the data.
+
+The following activities will be carried out in chronological order for the application of the test:
+
+* Day 1: The Test Team wll ensure the integrity and visibility of the questionnaires for their resolution.
+* Day 2: The test session of the application is carried out and the results of the questionnaires are collected.
+* Day 3: Calculations for the metric are performed and the results are interpreted.
+* Day 3: The data obtained is analyzed and possible changes are planned.
 
 ---
 
@@ -244,9 +293,9 @@ The responses to the questionnaires will be stored in spreadsheets or sheets of 
 
 #### ***Metric, Object and Measurement Attribute***
 
-* Metric: Interface satisfaction level
-* Object: Application of therapeutic complement.
-* Measurement attribute: Usability – Simplicity
+* **Metric:** Interface satisfaction level.
+* **Object:** Application of therapeutic complement.
+* **Measurement attribute:** [Usability – Simplicity](../Requirements/Requirements%20Definition.md#simplicity).
 
 #### ***Methodology***
 
@@ -266,17 +315,9 @@ Also as part of the methodology, a question is usually asked asking for the reas
 
 The implementation of the metric is carried out at the exact moment when a user makes the attempt to carry out one of the possible tasks of the application in a usability test.
 
-#### ***Activities Calendar***
-
-* Day 1: Prepare the SEQ that will be delivered to the PR and the storage media for the data.
-* Day 1: The work team defines the date and time of the tests and the participants are informed of them.
-* Day 2: The test session of the application is carried out and the results of the questionnaires are collected.
-* Day 3: Calculations for the metric are performed and the results are interpreted.
-* Day 3: The data obtained is analyzed and possible changes are planned.
-
 #### ***Tools***
 
-* Computer equipment with Internet connection.
+* Computer equipment with internet connection.
 * Spreadsheet, or alternatively, blank sheets and pen.
 
 #### ***Data Storage Media***
@@ -287,11 +328,26 @@ Sheets where the value of the level of simplicity proposed by the User is record
 
 The procedure for the measurement will be carried out following the following steps:
 
-1. Prepare PR for the test.
+1. Prepare the Test Subjects for the test.
 1. Apply the task completion test to the RP.
 1. Immediately after the completion of the test ask the question “How easy was it to perform the search task?”
-1. Provide the PR with the scale sheet to record their response.
-1. RP registers his perception of the level of simplicity and answers the question of why he assigned this value to it.
+1. Provide the Test Subject with the scale sheet to record their response.
+1. Test Subject registers his perception of the level of simplicity and answers the question of why he assigned this value to it.
 1. Finish the application of the metric.
-1. Steps 1 through 6 are repeated until all PRs have participated.
-1. The average value of the results of the scale is calculated once all the tests have been applied and the usability has been measured with each PR.
+1. Steps 1 through 6 are repeated until all Test Subjects have participated.
+1. The average value of the results of the scale is calculated once all the tests have been applied and the usability has been measured with each Test Subject.
+
+#### ***Activities Calendar***
+
+Prior to the application of usability tests, the testing team must have done the following activities:
+
+* Select the Test Subjects and ask them about their schedule availability.
+* The Test Team will set a date and time for the application of the test and will communicate the chosen date to the Test Subjects through Microsoft Teams, email or DM.
+* Prepare the SEQ that will be delivered to the Test Subjects and the storage media for the data.
+
+The following activities will be carried out in chronological order for the application of the test:
+
+* Day 1: The Test Team wll ensure the integrity and visibility of the SEQ for its resolution.
+* Day 2: The test session of the application is carried out and the results of the questionnaires are collected.
+* Day 3: Calculations for the metric are performed and the results are interpreted.
+* Day 3: The data obtained is analyzed and possible changes are planned.
