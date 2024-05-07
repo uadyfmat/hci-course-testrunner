@@ -3,8 +3,22 @@
 ## Content
 
 - [Functional Requirements](#functional-requirements)
+    - [FR 1](#fr-1)
+    - [FR 2](#fr-2)
+    - [FR 3](#fr-3)
+    - [FR 4](#fr-4)
+    - [FR 5](#fr-5)
+    - [FR 6](#fr-6)
+    - [FR 7](#fr-7)
+    - [FR 8](#fr-8)
+    - [FR 9](#fr-9)
+    - [FR 10](#fr-10)
+    - [FR 11](#fr-11)
+    - [FR 12](#fr-12)
+    - [FR 13](#fr-13)
 - [Non-Functional Requirements](#non-functional-requirements)
-- [Metrics Related to Non-Functional Requirements](#metrics-related-to-non-functional-requirements)
+
+[*Go to Metrics Related to Non-Functional Requirements*](./Metrics%20Related%20to%20NFR.md)
 
 ## Description
 This section is intended to specify the functional requirements of the system to be developed during the period January-May 2024. In previous phases of the project, it was determined that the way to mitigate the usability problems present in the *Test-Runner* system and its currently established form of use, is through an extension of Visual Studio Code, which allows users to use the tool locally. 
