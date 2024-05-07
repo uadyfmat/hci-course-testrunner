@@ -523,7 +523,7 @@ This section is intended to specify the functional requirements of the system to
 
 **Priority:** Medium.
 
-**Metric Related:** [wasd](#)
+**Metric Related:** [Interface Satisfaction Level](./Metrics%20Related%20to%20Quality%20Attributes.md#interface-satisfaction-level)
 
 ---
 
@@ -533,7 +533,7 @@ This section is intended to specify the functional requirements of the system to
 
 **Priority:** High.
 
-**Metric Related:** [wasd](#)
+**Metric Related:** [Interface Simplicity Level](./Metrics%20Related%20to%20Quality%20Attributes.md#interface-simplicity-level)
 
 ---
 
@@ -543,7 +543,9 @@ This section is intended to specify the functional requirements of the system to
 
 **Priority:** High.
 
-**Metric Related:** [wasd](#)
+**Metrics Related:** 
+- [Effectiveness Rate of Performing Tasks](./Metrics%20Related%20to%20Quality%20Attributes.md#effectiveness-rate-of-performing-tasks)
+- [Number of User Errors](./Metrics%20Related%20to%20Quality%20Attributes.md#number-of-user-errors)
 
 ## References
 

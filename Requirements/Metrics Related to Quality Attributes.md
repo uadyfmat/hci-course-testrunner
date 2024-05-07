@@ -246,7 +246,7 @@ The responses to the questionnaires will be stored in spreadsheets or sheets of 
 
 * Metric: Interface satisfaction level
 * Object: Application of therapeutic complement.
-* Measurement attribute: Usability – Satisfaction
+* Measurement attribute: Usability – Simplicity
 
 #### ***Methodology***
 
