@@ -463,7 +463,7 @@ This section is intended to specify the functional requirements of the system to
 
 ### NFR 7
 
-**Name:** *Easy to use*
+**Name:** *Ease of Use*
 
 **Description:** The system should provide contextual help to improve efficiency and user understanding.
 
