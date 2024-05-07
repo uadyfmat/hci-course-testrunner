@@ -1,4 +1,4 @@
-# Metrics Related to Non-Functional Requirements
+# Metrics Related to Quality Attributes
 
 ## Content
 
