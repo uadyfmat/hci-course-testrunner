@@ -407,7 +407,7 @@ This section is intended to specify the functional requirements of the system to
 
 **Description:** The system should provide clear and simple instructions for installation and initial configuration.
 
-**Priority:** 
+**Priority:** High.
 
 **Quality Attribute Related:** [Understandability](#understandability)
 
@@ -419,7 +419,7 @@ This section is intended to specify the functional requirements of the system to
 
 **Description:** the system must be able to interact with git to make commits and with test-runner to obtain test results
 
-**Priority:** High.
+**Priority:** Low.
 
 **Quality Attribute Related:** [Interoperability](#interoperability)
 
@@ -451,7 +451,7 @@ This section is intended to specify the functional requirements of the system to
 
 ### NFR 6
 
-**Name:** *Simplicity in the user interface*
+**Name:** *Simplicity in the User Interface*
 
 **Description:** The user interface should display only essential functions on the main screen and provide advanced options only when the user requests them.
 
