@@ -32,8 +32,11 @@
     - [Satisfaction](#satisfaction)
     - [Simplicity](#simplicity)
     - [Efficiency](#efficiency)
+- [References](#references)
 
 [*Go to Metrics Related to Quality Attributes*](./Metrics%20Related%20to%20Quality%20Attributes.md)
+
+[*Go to Exploratory Test Reports*](../Tests/Exploratory%20Tests/Exploratory%20Tests%20Reports/)
 
 ## Description
 This section is intended to specify the functional requirements of the system to be developed during the period January-May 2024. In previous phases of the project, it was determined that the way to mitigate the usability problems present in the *Test-Runner* system and its currently established form of use, is through an extension of Visual Studio Code, which allows users to use the tool locally. 
@@ -387,7 +390,7 @@ This section is intended to specify the functional requirements of the system to
 
 ## Non-Functional Requirements
 
-> **Note:** The **Priority** of non-functional requirements was established by the identification of usability problems detected in the [Exploratory Tests](../Exploratory%20Tests/Exploratory%20Tests%20Reports/).
+> **Note:** The **Priority** of Non-Functional Requirements was established by the identification of usability problems detected in the [Exploratory Tests](../Exploratory%20Tests/Exploratory%20Tests%20Reports/).
 
 ### NFR 1
 
@@ -477,19 +480,17 @@ This section is intended to specify the functional requirements of the system to
 
 **Name:** *Clarity of User Interfaces*
 
-**Description:** The user interface should be clear and easy to understand, with an attractive and consistent visual design throughout the system..
+**Description:** The user interface should be clear and easy to understand, with an attractive and consistent visual design throughout the system.
 
 **Priority:** High.
 
 **Quality Attribute Related:** [Satisfaction](#satisfaction)
 
-
-
 ## Qualiity Attributes Related to Non-Functional Requirements
 
 > **Note 1:** The **Priority** of Quality Attributes was established by the identification of usability problems detected in the [Exploratory Tests](../Exploratory%20Tests/Exploratory%20Tests%20Reports/).
 
-> **Note 2:** The Quality Attributes with **High Priority** are eligible for measurement through formal metrics.
+> **Note 2:** The Quality Attributes with **High Priority** are eligible for measurement through formal metrics and procedures.
 
 ### Portability
 
@@ -523,7 +524,7 @@ This section is intended to specify the functional requirements of the system to
 
 **Priority:** Medium.
 
-**Metric Related:** [wasd](#)
+**Metric Related:** [Interface Satisfaction Level](./Metrics%20Related%20to%20Quality%20Attributes.md#interface-satisfaction-level)
 
 ---
 
@@ -533,7 +534,7 @@ This section is intended to specify the functional requirements of the system to
 
 **Priority:** High.
 
-**Metric Related:** [wasd](#)
+**Metric Related:** [Interface Simplicity Level](./Metrics%20Related%20to%20Quality%20Attributes.md#interface-simplicity-level)
 
 ---
 
@@ -543,7 +544,9 @@ This section is intended to specify the functional requirements of the system to
 
 **Priority:** High.
 
-**Metric Related:** [wasd](#)
+**Metrics Related:** 
+- [Effectiveness Rate of Performing Tasks](./Metrics%20Related%20to%20Quality%20Attributes.md#effectiveness-rate-of-performing-tasks)
+- [Number of User Errors](./Metrics%20Related%20to%20Quality%20Attributes.md#number-of-user-errors)
 
 ## References
 
