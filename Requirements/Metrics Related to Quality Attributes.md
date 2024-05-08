@@ -95,22 +95,22 @@ The step by step procedure for the measurement of the metric is detailed below:
   * Search for specific news in the information section from a text provided by each of the PRs.
   * Filter the news by each of the different fields available.
   * Delete a saved activity.
-* At the time each activity is carried out by each Test Subject, a value of '1' will be assigned if the assigned task has been completed without the help of the Test Team, otherwise a '0' will be recorded.
+* At the time each activity is carried out by each Test Subject, a value of '1' will be assigned if the assigned task has been completed without the help of the Testing Team, otherwise a '0' will be recorded.
 * Once the activity is finished, the sum of the values ​​obtained from each activity divided by the total number of users will be made in order to obtain the completion rate of each task, that is, the effectiveness.
 * Make the corresponding graphs of the percentage obtained for each task.
 * Analyze the results obtained, draw conclusions and identify opportunities for improvement.
 
 #### ***Activities Calendar***
 
-Prior to the application of usability tests, the testing team must have done the following activities:
+Prior to the application of usability tests, the Testing Team must have done the following activities:
 
 * Select the Test Subjects and ask them about their schedule availability.
-* The Test Team will set a date and time for the application of the test and will communicate the chosen date to the Test Subjects through Microsoft Teams, email or DM.
+* The Testing Team will set a date and time for the application of the test and will communicate the chosen date to the Test Subjects through Microsoft Teams, email or DM.
 
 The following activities will be carried out in chronological order for the application of the test:
 
 * Day 1: Preparation of the spreadsheet for the measurement process and recording of results.
-* Day 2: The process of testing each of the tasks by the Test Subject and the Test Team is carried out, and each of the results obtained will be recorded by the Test Team.
+* Day 2: The process of testing each of the tasks by the Test Subject and the Testing Team is carried out, and each of the results obtained will be recorded by the Testing Team.
 * Day 3: The effectiveness calculation is made (by means of the completion rate of each of the tasks) and the corresponding graphs resulting from each task.
 * Day 3: The results obtained and the identification of opportunities for improvement in the application are analyzed.
 
@@ -168,11 +168,11 @@ As it is a simple count, when a user makes an error, it will be updated in the c
 Prior to the application of usability tests, the testing team must have done the following activities:
 
 * Select the Test Subjects and ask them about their schedule availability.
-* The Test Team will set a date and time for the application of the test and will communicate the chosen date to the Test Subjects through Microsoft Teams, email or DM.
+* The Testing Team will set a date and time for the application of the test and will communicate the chosen date to the Test Subjects through Microsoft Teams, email or DM.
 
 The following activities will be carried out in chronological order for the application of the test:
 
-* Day 1: The Test Team prepare the environment in which the test subjects will test the system.
+* Day 1: The Testing Team prepare the environment in which the test subjects will test the system.
 * Day 2: The corresponding metrics are applied and the results are collected.
 * Day 3: The data obtained is analyzed and possible changes are planned.
 
@@ -244,7 +244,7 @@ Percentiles, grades, adjectives, and NPS categories to describe raw SUS scores:
 
 #### ***Measurement Time***
 
-This metric will be applied when each Test Subjhect finish the application tests, then, the Test Team will immediately deliver the questionnaire in order to measure the metric.
+This metric will be applied when each Test Subjhect finish the application tests, then, the Testing Team will immediately deliver the questionnaire in order to measure the metric.
 
 #### ***Tools***
 
@@ -269,7 +269,7 @@ The responses to the questionnaires will be stored in spreadsheets or sheets of 
 
 * The Test Subject is asked to answer the SUS questionnaire after finishing the test session.
 * For each participant:
-  * The Test Team records each answer in the corresponding row of the participant.
+  * The Testing Team records each answer in the corresponding row of the participant.
 * The Excel file already has the formula for the SUS score of each row, so after finishing the questions and putting the answers in each cell, the SUS score will be calculated automatically.
 * The responses from all PRs are averaged and recorded in the *Average* column.
 
@@ -277,12 +277,12 @@ The responses to the questionnaires will be stored in spreadsheets or sheets of 
 Prior to the application of usability tests, the testing team must have done the following activities:
 
 * Select the Test Subjects and ask them about their schedule availability.
-* The Test Team will set a date and time for the application of the test and will communicate the chosen date to the Test Subjects through Microsoft Teams, email or DM.
+* The Testing Team will set a date and time for the application of the test and will communicate the chosen date to the Test Subjects through Microsoft Teams, email or DM.
 * Prepare the questionnaires that will be delivered to the PR and the storage media for the data.
 
 The following activities will be carried out in chronological order for the application of the test:
 
-* Day 1: The Test Team wll ensure the integrity and visibility of the questionnaires for their resolution.
+* Day 1: The Testing Team wll ensure the integrity and visibility of the questionnaires for their resolution.
 * Day 2: The test session of the application is carried out and the results of the questionnaires are collected.
 * Day 3: Calculations for the metric are performed and the results are interpreted.
 * Day 3: The data obtained is analyzed and possible changes are planned.
@@ -342,12 +342,12 @@ The procedure for the measurement will be carried out following the following st
 Prior to the application of usability tests, the testing team must have done the following activities:
 
 * Select the Test Subjects and ask them about their schedule availability.
-* The Test Team will set a date and time for the application of the test and will communicate the chosen date to the Test Subjects through Microsoft Teams, email or DM.
+* The Testing Team will set a date and time for the application of the test and will communicate the chosen date to the Test Subjects through Microsoft Teams, email or DM.
 * Prepare the SEQ that will be delivered to the Test Subjects and the storage media for the data.
 
 The following activities will be carried out in chronological order for the application of the test:
 
-* Day 1: The Test Team wll ensure the integrity and visibility of the SEQ for its resolution.
+* Day 1: The Testing Team wll ensure the integrity and visibility of the SEQ for its resolution.
 * Day 2: The test session of the application is carried out and the results of the questionnaires are collected.
 * Day 3: Calculations for the metric are performed and the results are interpreted.
 * Day 3: The data obtained is analyzed and possible changes are planned.
