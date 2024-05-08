@@ -1,11 +1,22 @@
 # Usability Test Design 
 ## Content
+- [Selection of Priority RNFs](#selection-of-priority-rnfs)
+- [Objectives of the Application of Usability Tests](#objectives-of-the-application-of-usability-tests)
+- [Usability Test Planning](#usability-test-planning)
+    - [Total Time Estimated for the Application](#total-time-estimated-for-the-application)
+    - [Number of Test Subjects and Division of Test Sessions](#number-of-test-subjects-and-division-of-test-sessions)
+    - [Test Subject Selection](#test-subject-selection)
+    - [Test Scenarios](#test-scenarios)
+- [Usability Metrics](#usability-metrics)
+- [Guide for the Application of Usability Testing](#guide-for-the-application-of-usability-testing)
 
-[*Go to Requirements Definition*](../../Requirements/Requirements%20Definition.md)
+[*Go to **Exploratory Tests***](../Exploratory%20Tests/)
 
-[*Go to Metrics Related to Quality Attributes*](../../Requirements/Metrics%20Related%20to%20Quality%20Attributes.md)
+[*Go to **Requirements Definition***](../../Requirements/Requirements%20Definition.md)
 
-[*Go to Exploratory Tests*](../Exploratory%20Tests/)
+[*Go to **Metrics Related to Quality Attributes***](../../Requirements/Metrics%20Related%20to%20Quality%20Attributes.md)
+
+[*Go to **Guide for the Application of Usability Tests***](./Guide%20for%20the%20Application%20of%20Usability%20Tests.md)
 
 ## Description
 This document includes the design that the testing team must follow for the application of the Usability Tests corresponding to the ***"Extension of the Test-Runner aimed at students"*** project. Likewise, the elements to be considered during its application are detailed. 
@@ -61,19 +72,21 @@ Additionally, a Preliminary Usability Test session is being reserved with the pa
 
 In order for an individual to be eligible to participate in Usability Test Session they must have a user profile similar to the one detailed in [Student User Profile](../../User%20Analysis/User%20Modeling/Personas%20Profiles.md#jose---software-engineer-student). Additionally, listed below are the **mandatory traits** that test subject candidates must have in order to be eligible:
 
-- wasd
+- Belong to or aspire to enter higher level computer-oriented careers, higher level careers that have Algorithm, Structured Programming, Object Oriented Programming or any subject that is based on code assignments.
+- Have limited basic knowledge of algorithms and programming.
 
 Likewise, the **desirable traits** that a candidate may have to be eligible are listed below:
 
-- wasd
+- To belong to the first semesters of a computer oriented career.
+- Basic knowledge of Visual Studio Code environment, or any other programming environment.
+- To have basic knowledge in C, C++ or Python programming language.
+- Have skills of continuous improvement, commitment, responsibility and motivation.
+
+The Testing Team will be in charge of recruiting participants for the testing who have the desired User Profile.
 
 ### Test Scenarios
 
-wasd 
-
-### Task Selection and Estimation
-
-awsd 
+Once the objectives were assigned and the metrics were found, the next step was defining the application process to be used and the test scenarios to be carried out. You can see this procedure with more detail in the [Guide for the Application of Usability Tests](Guide%20for%20the%20Application%20of%20Usability%20Tests.md).
 
 ### Tools
 
@@ -91,7 +104,7 @@ The materials used for the application of the Usability Test are the following:
 - Maze test
 - SUS Survey on Google Forms
 
-## Usability Metrics 
+## Usability Metrics
 
 The Usability Metrics intended for measuring High Priority Quality Attributes are as follows:
 - [Effectiveness Rate of Performing Tasks](../../Requirements/Metrics%20Related%20to%20Quality%20Attributes.md#effectiveness-rate-of-performing-tasks) (Target Quality Attribute: [Efficiency](../../Requirements/Requirements%20Definition.md#efficiency))
