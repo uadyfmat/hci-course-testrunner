@@ -7,8 +7,10 @@
 - [Technical Characteristics](#technical-characteristics)
 - [Context of the Jan-May 2024 School Period](#context-of-the-january-may-2024-school-period)
 - [Team Composition](#team-composition)
-- [Activity Management](#activity-management) 
-
+- [Activities Management](#activity-management)
+- [Deliverable Artifacts](#deliverable-artefacts)
+    - [First Delivery](#first-delivery)
+    - [Second Delivery](#second-delivery)
 
 ## Project Definition
 
@@ -41,21 +43,37 @@ Based on the background of the project, it has been clear that **the system has 
 
 The team consists of 5 members, enrolled in the HCI subject. For the management of this project, no specific roles are being considered for the team members, so each one is not limited in the activities they can perform.
 
-### Activity Management
+### Activities Management
 
 The activities carried out for the design and development of the project during the course were established, assigned, weighted and managed through a board in the Trello platform, following the Kanban format.
 
 > **Link to the Trello board:** https://trello.com/b/msc8SngK/hci-course 
 
+Additionally, in the repository there is a static table with a summary of the activities and those responsible for each of them. The Activity Schedule table is found [here](./Activities%20Management/Activity%20Schedule.md).
 
-### Deliverable Artefacts
-The deliverable artefacts for the first delivery are presented below:
+### Deliverable Artifacts
+#### First Delivery
+The deliverable artifacts for the **First Delivery** are presented below:
 - [Activities Schedule](./Activities%20Management/Activity%20Schedule.md)
 - [Activities Management Definition (Definition of Done, Metrics Implemented)](./Activities%20Management/README.md)
 - [Survey results](./User%20Analysis/User%20Research/survey%20(students).md)
 - [Profile of Personas (Students and Teachers)](./User%20Analysis/User%20Modeling/Personas%20Profiles.md)
 - [Personas Scenarios (Students and Teachers)](./User%20Analysis/User%20Modeling/Personas%20Scenarios.md)
 - [Analysis of the Personas methodology](./User%20Analysis/User%20Modeling/Personas%20Analysis.md)
-- [Exploratory Test Design](./Exploratory%20Tests/Exploratory%20Test%20Design.md)
-- [Exploratory Tests Reports](./Exploratory%20Tests/Exploratory%20Tests%20Reports)
+- [Exploratory Test Design](./Tests/Exploratory%20Tests/Exploratory%20Test%20Design.md)
+- [Exploratory Tests Reports](./Tests/Exploratory%20Tests/Exploratory%20Tests%20Reports/)
 - [Requirements Definition](./Requirements/Requirements%20Definition.md)
+- [First Delivery Presentation](./Presentations/First%20Delivery/FirstDelivery-Presentation.pdf)
+- [First Delivery Team Reflections](./Reflections%20of%20the%20HCI%20Course/First%20Delivery/)
+
+#### Second Delivery
+
+The deliverable artifacts for the **Second Delivery** are listed below:
+- [Activities Schedule](./Activities%20Management/Activity%20Schedule.md)
+- [Quality Attributes Related to Non-Functional Requirements](./Requirements/Requirements%20Definition.md#qualiity-attributes-related-to-non-functional-requirements)
+- [Metrics Related to Quality Attributes](./Requirements/Metrics%20Related%20to%20Quality%20Attributes.md)
+- [Prototype & Design Guide](https://www.figma.com/design/BRmxXYkRPCorbYL4aXitR2/Test-Runner-VSCode-Extension-Prototype?node-id=0%3A1&t=bl2U2GImltkrJyJD-1)
+- [Requirements Traceability Matrix](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a16003750_alumnos_uady_mx/EfAJk9vs-mlMv1RFCb-AKEsBj6yE22bNO-mNJFSqDZK6ug?e=LwtM1r)
+- [Usability Test Design](./Tests/Usability%20Tests/)
+- [Guide for the Application of Usability Tests](./Tests/Usability%20Tests/Guide%20for%20the%20Application%20of%20Usability%20Tests.md)
+- [Second Delivery Team Reflections](./Reflections%20of%20the%20HCI%20Course/Second%20Delivery/)

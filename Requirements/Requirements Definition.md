@@ -3,8 +3,40 @@
 ## Content
 
 - [Functional Requirements](#functional-requirements)
+    - [FR 1](#fr-1)
+    - [FR 2](#fr-2)
+    - [FR 3](#fr-3)
+    - [FR 4](#fr-4)
+    - [FR 5](#fr-5)
+    - [FR 6](#fr-6)
+    - [FR 7](#fr-7)
+    - [FR 8](#fr-8)
+    - [FR 9](#fr-9)
+    - [FR 10](#fr-10)
+    - [FR 11](#fr-11)
+    - [FR 12](#fr-12)
+    - [FR 13](#fr-13)
 - [Non-Functional Requirements](#non-functional-requirements)
-- [Metrics Related to Non-Functional Requirements](#metrics-related-to-non-functional-requirements)
+    - [NFR 1](#nfr-1)
+    - [NFR 2](#nfr-2)
+    - [NFR 3](#nfr-3)
+    - [NFR 4](#nfr-4)
+    - [NFR 5](#nfr-5)
+    - [NFR 6](#nfr-6)
+    - [NFR 7](#nfr-7)
+    - [NFR 8](#nfr-8)
+- [Quality Attributes Related to Non-Functional Requirements](#qualiity-attributes-related-to-non-functional-requirements)
+    - [Portability](#portability)
+    - [Understandability](#understandability)
+    - [Interoperabiity](#interoperability)
+    - [Satisfaction](#satisfaction)
+    - [Simplicity](#simplicity)
+    - [Efficiency](#efficiency)
+- [References](#references)
+
+[*Go to Metrics Related to Quality Attributes*](./Metrics%20Related%20to%20Quality%20Attributes.md)
+
+[*Go to Exploratory Test Reports*](../Tests/Exploratory%20Tests/Exploratory%20Tests%20Reports/)
 
 ## Description
 This section is intended to specify the functional requirements of the system to be developed during the period January-May 2024. In previous phases of the project, it was determined that the way to mitigate the usability problems present in the *Test-Runner* system and its currently established form of use, is through an extension of Visual Studio Code, which allows users to use the tool locally. 
@@ -19,8 +51,6 @@ This section is intended to specify the functional requirements of the system to
 
 ### FR 1
 
----
-
 **Name:** *Detect automatically the user's OS*
 
 **Description:** The system should be able to detect the user's OS without the user having to specify it, in order to install dependencies and configure environment variables. 
@@ -31,10 +61,9 @@ This section is intended to specify the functional requirements of the system to
 
 >  **Note:** For understanding the user interaction with this requirement, see the *Normal Flow* and *Alternative Flow* sections for the [FR2](#fr-2) or [FR3](#fr-3).
 
+---
 
 ### FR 2
-
----
 
 **Name:** *Install required dependencies*
 
@@ -64,9 +93,9 @@ This section is intended to specify the functional requirements of the system to
 
 3. The user omits the installation of dependencies through the extension.
 
-### FR 3
-
 ---
+
+### FR 3
 
 **Name:** *Add installation paths to OS environment variables*
 
@@ -92,10 +121,9 @@ This section is intended to specify the functional requirements of the system to
 
 1. The user omits the installation of dependencies through the extension.
 
+---
 
 ### FR 4
-
----
 
 **Name:** *Install Test-Runner*
 
@@ -127,9 +155,9 @@ This section is intended to specify the functional requirements of the system to
 
 5. The system stops the installation process.
 
-### FR 5
-
 ---
+
+### FR 5
 
 **Name:** *Show Test-Runner details tab*
 
@@ -151,9 +179,9 @@ This section is intended to specify the functional requirements of the system to
 
 2. The extension displays the details tab.
 
-### FR 6
-
 ---
+
+### FR 6
 
 **Name:** *Show individual test status*
 
@@ -179,9 +207,9 @@ This section is intended to specify the functional requirements of the system to
 
 3. The system displays, for the individual test, the *Not Passed* status of the test.
 
-### FR 7
-
 ---
+
+### FR 7
 
 **Name:** *Show tests batch status*
 
@@ -207,9 +235,9 @@ This section is intended to specify the functional requirements of the system to
 
 3. The system displays the *Not Passed* status of the repository tests.
 
-### FR 8
-
 ---
+
+### FR 8
 
 **Name:** *Execute individual test*
 
@@ -227,9 +255,9 @@ This section is intended to specify the functional requirements of the system to
 
 3. The system updates the status of the test.
 
-### FR 9
-
 ---
+
+### FR 9
 
 **Name:** *Execute tests batch*
 
@@ -247,9 +275,9 @@ This section is intended to specify the functional requirements of the system to
 
 3. The system updates the status of the tests at the repository folder level.
 
-### FR 10
-
 ---
+
+### FR 10
 
 **Name:** *Stop tests execution*
 
@@ -268,9 +296,9 @@ This section is intended to specify the functional requirements of the system to
 
 4. The system stops the test execution.
 
-### FR 11
-
 ---
+
+### FR 11
 
 **Name:** *Show tests result*
 
@@ -291,8 +319,6 @@ This section is intended to specify the functional requirements of the system to
 4. The system displays the test result to the user.
 
 ### FR 12
-
----
 
 **Name:** *Update individual test status*
 
@@ -326,9 +352,9 @@ This section is intended to specify the functional requirements of the system to
 
 5. The system updates the status of the individual test to *Not Passed*.
 
-### FR 13
-
 ---
+
+### FR 13
 
 **Name:** *Update tests batch status*
 
@@ -364,120 +390,165 @@ This section is intended to specify the functional requirements of the system to
 
 ## Non-Functional Requirements
 
+> **Note:** The **Priority** of Non-Functional Requirements was established by the identification of usability problems detected in the [Exploratory Tests](../Exploratory%20Tests/Exploratory%20Tests%20Reports/).
+
 ### NFR 1
 
----
-
-**Name:** *Compatibility with differents OS*
+**Name:** *Compatibility with Differents OS*
 
 **Description:** The system must be compatible with OS that are compatible with VSCode, such as Windows, macOS and Linux.
 
-**Priority:** Medium
+**Priority:** Low.
 
-**Quality Attribute Related:** portability
+**Quality Attribute Related:** [Portability](#portability)
 
-**Metric Related:** [wasd](#)
+---
 
 ### NFR 2
 
----
-
-**Name:** *Ease of configuration*
+**Name:** *Ease of Configuration*
 
 **Description:** The system should provide clear and simple instructions for installation and initial configuration.
 
-**Priority:** High
+**Priority:** High.
 
-**Quality Attribute Related:** understandability
+**Quality Attribute Related:** [Understandability](#understandability)
 
-**Metric Related:** [wasd](#)
+---
 
 ### NFR 3
 
----
-
-**Name:** *Interaction with github & test-runner*
+**Name:** *Interaction with Github & Test-Runner*
 
 **Description:** the system must be able to interact with git to make commits and with test-runner to obtain test results
 
-**Priority:** High
+**Priority:** Low.
 
-**Quality Attribute Related:** interoperability
-
-**Metric Related:** [wasd](#)
-
-### NFR 4
+**Quality Attribute Related:** [Interoperability](#interoperability)
 
 ---
+
+### NFR 4
 
 **Name:** *Test Scores*
 
 **Description:** The system must provide feedback on the user's actions when making commits and running tests.
 
-**Priority:** High
+**Priority:** High.
 
-**Quality Attribute Related:** System feedback
-
-**Metric Related:** [wasd](#)
-
-### NFR 5
+**Quality Attribute Related:** [Satisfaction](#satisfaction)
 
 ---
+
+### NFR 5
 
 **Name:** *User Operational Simplicity*
 
 **Description:** The system should minimize the number of steps required to perform common tasks, reducing operational complexity and avoiding redundancy of functions.
 
-**Priority:** High
+**Priority:** High.
 
-**Quality Attribute Related:** Simplicity
+**Quality Attribute Related:** [Simplicity](#simplicity)
 
-**Metric Related:** [wasd](#)
-
+---
 
 ### NFR 6
 
----
-
-**Name:** *Simplicity in the user interface*
+**Name:** *Simplicity in the User Interface*
 
 **Description:** The user interface should display only essential functions on the main screen and provide advanced options only when the user requests them.
 
-**Priority:** High
+**Priority:** High.
 
-**Quality Attribute Related:** Simplicity
+**Quality Attribute Related:** [Simplicity](#simplicity)
 
-**Metric Related:** [wasd](#)
+---
 
 ### NFR 7
 
----
+**Name:** *Ease of Use*
 
-**Name:** *Easy to use*
+**Description:** The system should provide contextual help to improve efficiency and user understanding.
 
-**Description:** It should provide contextual help to improve efficiency and user understanding.
+**Priority:** High.
 
-**Priority:** High
-
-**Quality Attribute Related:** Usability
-
-**Metric Related:** [wasd](#)
-
-
-
-
-## Metrics Related to Non-Functional Requirements
-
-### Metric 1
+**Quality Attribute Related:** [Efficiency](#efficiency)
 
 ---
 
-**Name:** 
+### NFR 8
 
-**Description:** 
+**Name:** *Clarity of User Interfaces*
 
-**Usage:** 
+**Description:** The user interface should be clear and easy to understand, with an attractive and consistent visual design throughout the system.
 
-### Metric 2
+**Priority:** High.
+
+**Quality Attribute Related:** [Satisfaction](#satisfaction)
+
+## Qualiity Attributes Related to Non-Functional Requirements
+
+> **Note 1:** The **Priority** of Quality Attributes was established by the identification of usability problems detected in the [Exploratory Tests](../Exploratory%20Tests/Exploratory%20Tests%20Reports/).
+
+> **Note 2:** The Quality Attributes with **High Priority** are eligible for measurement through formal metrics and procedures.
+
+### Portability
+
+**Definition:** Effort required to transfer a program from one hardware configuration and/or software system environment to another.
+
+**Priority:** Low.
 
 ---
+
+### Understandability
+
+**Definition:** Ease with which the implementation can be understood.
+
+**Priority:** High.
+
+> **Note:** This requirement was discarded by McCall due to the difficulty of measuring it, not to mention the repercussions on the cost of the project.
+
+---
+
+### Interoperability
+
+**Definition:** Effort required to couple one system with another.
+
+**Priority:** Low.
+
+---
+
+### Satisfaction
+
+**Definition:** Reflects how pleasant and satisfying it is for users to interact with the software. High usability leads to increased user satisfaction and can contribute to the overall success of the software product.
+
+**Priority:** Medium.
+
+**Metric Related:** [Interface Satisfaction Level](./Metrics%20Related%20to%20Quality%20Attributes.md#interface-satisfaction-level)
+
+---
+
+### Simplicity
+
+**Definition:** Those attributes of the software that provide implementation of-functions in the Maintainability most understandable manner (Usually avoidance of practices which increase complexity).
+
+**Priority:** High.
+
+**Metric Related:** [Interface Simplicity Level](./Metrics%20Related%20to%20Quality%20Attributes.md#interface-simplicity-level)
+
+---
+
+### Efficiency
+
+**Definition:** Pertains to how quickly users can perform tasks once they are familiar with the software. It emphasizes the speed and accuracy with which users can achieve their goals using the software.
+
+**Priority:** High.
+
+**Metrics Related:** 
+- [Effectiveness Rate of Performing Tasks](./Metrics%20Related%20to%20Quality%20Attributes.md#effectiveness-rate-of-performing-tasks)
+- [Number of User Errors](./Metrics%20Related%20to%20Quality%20Attributes.md#number-of-user-errors)
+
+## References
+
+- Boehm, B.W., Brown, J.R., & Kaspar, H. (1978). Characteristics of software quality.
+- McCall, J., Paul, K., Richards, & Walters, F. (1977). Factors in software quality: concept and definitions of software quality.
