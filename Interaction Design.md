@@ -28,7 +28,7 @@
         <td>High fidelity 1.1</td>
     </tr>
     <tr>
-        <th colspan="5">Functional Requirements</th>
+        <th colspan="5">Non-Functional Requirements</th>
     </tr>
     <tr>
         <th>Requirement</th>    
