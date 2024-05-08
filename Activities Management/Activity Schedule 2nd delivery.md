@@ -1,8 +1,7 @@
 # Activity Schedule 2nd delivery
 
 ## Description
-This table summarizes the project activities, including its description, KPI, responsible person, expected output and deadline.
-
+This table summarizes the project activities, including its description, KPI, responsible person, expected output and deadline<!-- Tabla HTML --> 
     <table>
         <thead>
           <tr>
