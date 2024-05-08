@@ -8,7 +8,7 @@
 [*Go to Exploratory Tests*](../Exploratory%20Tests/)
 
 ## Description
-This document includes the design that the testing team must follow for the application of the Usability Tests corresponding to the ***"Extension of the Test Runner aimed at students"*** project. Likewise, the elements to be considered during its application are detailed. 
+This document includes the design that the testing team must follow for the application of the Usability Tests corresponding to the ***"Extension of the Test-Runner aimed at students"*** project. Likewise, the elements to be considered during its application are detailed. 
 
 ## Selection of Priority RNFs
 
@@ -45,17 +45,27 @@ The main objectives of doing the testing are:
 
 Details related to the test design are mentioned below.
 
-### Estimated Total Time for the Application
+### Total Time Estimated for the Application
 
-wasd 
+The total time allocated for the application of all iterations of the usability test is 1-3, corresponding to a "Just in-time" test. This period was determined from the scheduling of the activities corresponding to each test.
 
-### Number of Test Subjects
+### Number of Test Subjects and Division of Test Sessions
 
-Asd 
+The number of participants per testing session is estimated to range between one to three (1-3) participants. The test is designed to be able to accept one-on-one testing between a single Test Subject and the Testing Team, so the measurements are not affected by the number of participants present during each session.
+
+The participation of 9 Test Subjects is planned, divided into 3 test sessions of 3 individuals each.
+
+Additionally, a Preliminary Usability Test session is being reserved with the participation of a single Test Subject. This session should be executed prior to the application of the actual Usability Tests, in order to validate the correctness of the test protocol, the activities and scenarios covered and the timing of the test application, as well as to detect problems during the test procedure and to train the test team members on the test protocol itself. Any error or problem detected during the application of the Preliminary Usability Test shall be corrected by the Testing Team within three days after the date of the Preliminary Test.
 
 ### Test Subject Selection
 
-wasd 
+In order for an individual to be eligible to participate in Usability Test Session they must have a user profile similar to the one detailed in [Student User Profile](../../User%20Analysis/User%20Modeling/Personas%20Profiles.md#jose---software-engineer-student). Additionally, listed below are the **mandatory traits** that test subject candidates must have in order to be eligible:
+
+- wasd
+
+Likewise, the **desirable traits** that a candidate may have to be eligible are listed below:
+
+- wasd
 
 ### Test Scenarios
 
