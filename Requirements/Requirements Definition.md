@@ -486,7 +486,8 @@ This section is intended to specify the functional requirements of the system to
 
 **Quality Attribute Related:** [Satisfaction](#satisfaction)
 
-## Qualiity Attributes Related to Non-Functional Requirements
+
+## Quality Attributes Related to Non-Functional Requirements
 
 > **Note 1:** The **Priority** of Quality Attributes was established by the identification of usability problems detected in the [Exploratory Tests](../Exploratory%20Tests/Exploratory%20Tests%20Reports/).
 
