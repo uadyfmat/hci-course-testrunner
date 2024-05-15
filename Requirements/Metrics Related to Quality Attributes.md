@@ -144,9 +144,9 @@ In this case, both errors are considered with the same level of importance, so, 
 
 |Rate|Value|
 | :- | :- |
-|Between 0 and 1 error|Easy to use|
-|Between 2 and 3 errors|Need instructions to use|
-|More than 3 errors|Hard to use|
+|Between 0 and 2 error|Easy to use|
+|Between 3 and 5 errors|Need instructions to use|
+|More than 6 errors|Hard to use|
 
 #### ***Measurement Time***
 
