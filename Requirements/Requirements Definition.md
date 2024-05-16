@@ -31,7 +31,7 @@
     - [Interoperabiity](#interoperability)
     - [Satisfaction](#satisfaction)
     - [Simplicity](#simplicity)
-    - [Efficiency](#efficiency)
+    - Effectiveness](#effectiveness)
 - [References](#references)
 
 [*Go to Metrics Related to Quality Attributes*](./Metrics%20Related%20to%20Quality%20Attributes.md)
@@ -448,7 +448,9 @@ This section is intended to specify the functional requirements of the system to
 
 **Priority:** High.
 
-**Quality Attribute Related:** [Simplicity](#simplicity)
+**Quality Attributes Related:**
+- [Simplicity](#simplicity)
+- [Effectiveness](#effectiveness)
 
 ---
 
@@ -460,7 +462,9 @@ This section is intended to specify the functional requirements of the system to
 
 **Priority:** High.
 
-**Quality Attribute Related:** [Simplicity](#simplicity)
+**Quality Attributes Related:**
+- [Simplicity](#simplicity)
+- [Effectiveness](#effectiveness)
 
 ---
 
@@ -472,7 +476,9 @@ This section is intended to specify the functional requirements of the system to
 
 **Priority:** High.
 
-**Quality Attribute Related:** [Efficiency](#efficiency)
+**Quality Attribute Related:**
+- [Effectiveness](#effectiveness)
+- [Understandability](#understandability)
 
 ---
 
@@ -484,7 +490,9 @@ This section is intended to specify the functional requirements of the system to
 
 **Priority:** High.
 
-**Quality Attribute Related:** [Satisfaction](#satisfaction)
+**Quality Attributes Related:**
+- [Simplicity](#simplicity)
+- [Satisfaction](#satisfaction)
 
 
 ## Quality Attributes Related to Non-Functional Requirements
@@ -525,7 +533,9 @@ This section is intended to specify the functional requirements of the system to
 
 **Priority:** Medium.
 
-**Metric Related:** [Interface Satisfaction Level](./Metrics%20Related%20to%20Quality%20Attributes.md#interface-satisfaction-level)
+**Metric Related:**
+- [Interface Satisfaction Level](./Metrics%20Related%20to%20Quality%20Attributes.md#interface-satisfaction-level)
+- [Interface Simplicity Level](./Metrics%20Related%20to%20Quality%20Attributes.md#interface-simplicity-level)
 
 ---
 
@@ -535,11 +545,13 @@ This section is intended to specify the functional requirements of the system to
 
 **Priority:** High.
 
-**Metric Related:** [Interface Simplicity Level](./Metrics%20Related%20to%20Quality%20Attributes.md#interface-simplicity-level)
+**Metric Related:**
+- [Effectiveness Rate of Performing Tasks](./Metrics%20Related%20to%20Quality%20Attributes.md#effectiveness-rate-of-performing-tasks)
+- [Number of User Errors](./Metrics%20Related%20to%20Quality%20Attributes.md#number-of-user-errors)
 
 ---
 
-### Efficiency
+### Effectiveness
 
 **Definition:** Pertains to how quickly users can perform tasks once they are familiar with the software. It emphasizes the speed and accuracy with which users can achieve their goals using the software.
 

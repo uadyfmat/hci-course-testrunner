@@ -48,7 +48,9 @@ This document is intended for the definition of the metrics used to measure part
 
 * **Object:** Application of therapeutic complement.
 
-* **Measurement attribute:** [Usability – Efficiency](../Requirements/Requirements%20Definition.md#efficiency).
+* **Measurement attribute:** 
+  - Direct Attribute: [Usability – Effectiveness](./Requirements%20Definition.md#effectiveness).
+  - Indirect Attribute: [Usability - Simplicity](./Requirements%20Definition.md#simplicity)
 
 #### ***Methodology***
 
@@ -122,7 +124,9 @@ The following activities will be carried out in chronological order for the appl
 
 * **Metric:** Efficiency based on time.
 * **Object:** Application of therapeutic complement.
-* **Measurement attribute:** [Usability – Efficiency](../Requirements/Requirements%20Definition.md#efficiency).
+* **Measurement attribute:**
+  - Direct Attribute: [Usability – Effectiveness](./Requirements%20Definition.md#effectiveness).
+  - Indirect Attribute: [Usability - Simplicity](./Requirements%20Definition.md#simplicity)
 
 #### ***Methodology***
 
@@ -184,7 +188,7 @@ The following activities will be carried out in chronological order for the appl
 
 * **Metric:** Interface satisfaction level.
 * **Object:** Application of therapeutic complement.
-* **Measurement attribute:** [Usability – Satisfaction](../Requirements/Requirements%20Definition.md#satisfaction).
+* **Measurement attribute:** [Usability – Satisfaction](./Requirements%20Definition.md#satisfaction).
 
 #### ***Methodology***
 
@@ -295,7 +299,7 @@ The following activities will be carried out in chronological order for the appl
 
 * **Metric:** Interface satisfaction level.
 * **Object:** Application of therapeutic complement.
-* **Measurement attribute:** [Usability – Simplicity](../Requirements/Requirements%20Definition.md#simplicity).
+* **Measurement attribute:** [Usability – Satisfaction](./Requirements%20Definition.md#satisfaction).
 
 #### ***Methodology***
 
