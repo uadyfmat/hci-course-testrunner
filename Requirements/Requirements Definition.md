@@ -31,7 +31,7 @@
     - [Interoperabiity](#interoperability)
     - [Satisfaction](#satisfaction)
     - [Simplicity](#simplicity)
-    - Effectiveness](#effectiveness)
+    - [Effectiveness](#effectiveness)
 - [References](#references)
 
 [*Go to Metrics Related to Quality Attributes*](./Metrics%20Related%20to%20Quality%20Attributes.md)
