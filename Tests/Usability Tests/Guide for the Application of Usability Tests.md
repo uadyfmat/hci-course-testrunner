@@ -84,7 +84,7 @@ De igual manera, se deberá detectar que el aplicante sea capaz de identificar e
 A continuación, se presentan los pasos que el aplicante debe seguir para completar la Tarea 1:
 
 - Instala la extensión del Test-Runner.
-- Una vez el botón para instalación cambie a “Instalado”, ubica el nuevo ícono en la barra lateral izquierda de VSCode y selecciónalo.
+- Una vez el botón de instalación cambie a “Instalado”, ubica el nuevo ícono en la barra lateral izquierda de VSCode y selecciónalo.
 
 > **Nota:** Considera que aparecerás inicialmente en la página del Marketplace para la instalación de la extensión.
 
