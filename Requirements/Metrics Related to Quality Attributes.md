@@ -48,7 +48,9 @@ This document is intended for the definition of the metrics used to measure part
 
 * **Object:** Application of therapeutic complement.
 
-* **Measurement attribute:** [Usability – Efficiency](../Requirements/Requirements%20Definition.md#efficiency).
+* **Measurement attribute:** 
+  - Direct Attribute: [Usability – Effectiveness](./Requirements%20Definition.md#effectiveness).
+  - Indirect Attribute: [Usability - Simplicity](./Requirements%20Definition.md#simplicity)
 
 #### ***Methodology***
 
@@ -58,7 +60,7 @@ The completion rate of a specific task is calculated by means of a binary metric
 
 It is thanks to its simplicity that the completion rate is a very easy to understand metric and therefore quite popular in the area of usability of a particular program. In addition to this, their respective results can be collected during any stage of development of the program to be measured. That is why the effectiveness will be represented as a percentage using the equation presented below:
 
-$$ Effectivenes = \frac{ST}{TT} \times 100$$
+$$ Effectiveness = \frac{ST}{TT} \times 100$$
 
 $ST$ = Number of successfully completed tasks.
 
@@ -90,12 +92,8 @@ It is for the same reason that it can be performed at any stage of program devel
 The step by step procedure for the measurement of the metric is detailed below:
 
 * The Test Subjects that will test the system are defined.
-* Once the data storage medium is ready and the date and time of the tests with the Test Subjects have been set, they are asked to carry out each of the system activities:
-  * Used one function in the application.
-  * Search for specific news in the information section from a text provided by each of the PRs.
-  * Filter the news by each of the different fields available.
-  * Delete a saved activity.
-* At the time each activity is carried out by each Test Subject, a value of '1' will be assigned if the assigned task has been completed without the help of the Testing Team, otherwise a '0' will be recorded.
+* Once the data storage medium is ready and the date and time of the tests with the Test Subjects have been set, they are asked to carry out each of the system activities defined in the [Guide for the Application of Usability Tests](../Tests/Usability%20Tests/Guide%20for%20the%20Application%20of%20Usability%20Tests.md#tareas).
+* At the time each activity is carried out by each Test Subject, a value of '1' will be assigned if the assigned task has been completed following the totallity of the steps required for the task, otherwise a '0' will be recorded.
 * Once the activity is finished, the sum of the values ​​obtained from each activity divided by the total number of users will be made in order to obtain the completion rate of each task, that is, the effectiveness.
 * Make the corresponding graphs of the percentage obtained for each task.
 * Analyze the results obtained, draw conclusions and identify opportunities for improvement.
@@ -122,7 +120,9 @@ The following activities will be carried out in chronological order for the appl
 
 * **Metric:** Efficiency based on time.
 * **Object:** Application of therapeutic complement.
-* **Measurement attribute:** [Usability – Efficiency](../Requirements/Requirements%20Definition.md#efficiency).
+* **Measurement attribute:**
+  - Direct Attribute: [Usability – Effectiveness](./Requirements%20Definition.md#effectiveness).
+  - Indirect Attribute: [Usability - Simplicity](./Requirements%20Definition.md#simplicity)
 
 #### ***Methodology***
 
@@ -132,19 +132,14 @@ Based on an analysis of 719 tasks performed with enterprise and consumer softwar
 
 In the case of the therapeutic complement application, two possible errors whose occurrence is important to measure were identified:
 
-* Number of times the user exited an activity without saving it.
-* Number of times the user entered a section by mistake.
-
-Therefore, based on the errors mentioned, users will be assigned two tasks:
-
-* Use one of the features with the theme of your choice and navigate through the rest of the application.
-* Update the content displayed on the screen and filter the data by selecting any of the available options.
+Number of times the user entered a section by mistake.
+Number of times the user finished a task before its conclusion.
 
 In this case, both errors are considered with the same level of importance, so, to standardize the results, they will be added and the system will be classified based on the following:
 
 |Rate|Value|
 | :- | :- |
-|Between 0 and 1 error|Easy to use|
+|Between 0 and 1 errors|Easy to use|
 |Between 2 and 3 errors|Need instructions to use|
 |More than 3 errors|Hard to use|
 
@@ -184,7 +179,7 @@ The following activities will be carried out in chronological order for the appl
 
 * **Metric:** Interface satisfaction level.
 * **Object:** Application of therapeutic complement.
-* **Measurement attribute:** [Usability – Satisfaction](../Requirements/Requirements%20Definition.md#satisfaction).
+* **Measurement attribute:** [Usability – Satisfaction](./Requirements%20Definition.md#satisfaction).
 
 #### ***Methodology***
 
@@ -295,7 +290,7 @@ The following activities will be carried out in chronological order for the appl
 
 * **Metric:** Interface satisfaction level.
 * **Object:** Application of therapeutic complement.
-* **Measurement attribute:** [Usability – Simplicity](../Requirements/Requirements%20Definition.md#simplicity).
+* **Measurement attribute:** [Usability – Satisfaction](./Requirements%20Definition.md#satisfaction).
 
 #### ***Methodology***
 
