@@ -11,6 +11,8 @@
 - [Deliverable Artifacts](#deliverable-artefacts)
     - [First Delivery](#first-delivery)
     - [Second Delivery](#second-delivery)
+    - [Third Delivery](#third-delivery)
+- [Contribution Metric](#contribution-metric)
 
 ## Project Definition
 
@@ -55,6 +57,7 @@ Additionally, in the repository there is a static table with a summary of the ac
 #### First Delivery
 The deliverable artifacts for the **First Delivery** are presented below:
 - [Activities Schedule](./Activities%20Management/Activity%20Schedule.md)
+- [Elevator Speech Presentation](./Presentations/First%20Delivery/Elevator%20Speech%20-%20Test%20Runner.pdf)
 - [Activities Management Definition (Definition of Done, Metrics Implemented)](./Activities%20Management/README.md)
 - [Survey results](./User%20Analysis/User%20Research/survey%20(students).md)
 - [Profile of Personas (Students and Teachers)](./User%20Analysis/User%20Modeling/Personas%20Profiles.md)
@@ -77,3 +80,17 @@ The deliverable artifacts for the **Second Delivery** are listed below:
 - [Usability Test Design](./Tests/Usability%20Tests/)
 - [Guide for the Application of Usability Tests](./Tests/Usability%20Tests/Guide%20for%20the%20Application%20of%20Usability%20Tests.md)
 - [Second Delivery Team Reflections](./Reflections%20of%20the%20HCI%20Course/Second%20Delivery/)
+
+#### Third Delivery
+
+The deliverable artifacts for the **Third Delivery** are listed below:
+- [Testing Application Evidence (Youtube Playlist)](https://www.youtube.com/playlist?list=PLvVneKJJlOBjOThV8a_X6qcpngxEMFnpV)
+- [SUS Results](https://docs.google.com/spreadsheets/d/1Y8ZkyMFEAbL6jnv8Of7Ui96MILXCaZIwP2EJrkN9Mw8/edit?usp=sharing)
+- [SEQ Results](https://docs.google.com/spreadsheets/d/12tUVML_dBd0kfIWtmGvuVqaP2PJGsJO1LHcGTwVxl4k/edit?usp=sharing)
+- [Usability Test Results Report](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a16003524_alumnos_uady_mx/EeA-8zMTs-NDsch-MWCRkYwBMqAjgyrV2tBl39wPGldkDA?e=8remVR)
+- [Third Delivery Presentation - Usability Test Report](./Presentations/Third%20Delivery/Final%20Delivery%20Presentation%20-%20Usability%20Test%20Report.pdf)
+
+### Contribution Metric
+
+The weighting of the contribution metric for each team member can be found in the following link:
+[Contribution Metric - HCI Team 4](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a16003524_alumnos_uady_mx/EfKyb59QewZOlAiXi5cnWzsBuNhAD1s7jwcJyS6fIuYS4w?e=7SUhzE)
