@@ -56,6 +56,7 @@ Additionally, in the repository there is a static table with a summary of the ac
 #### First Delivery
 The deliverable artifacts for the **First Delivery** are presented below:
 - [Activities Schedule](./Activities%20Management/Activity%20Schedule.md)
+- [Elevator Speech Presentation](./Presentations/First%20Delivery/Elevator%20Speech%20-%20Test%20Runner.pdf)
 - [Activities Management Definition (Definition of Done, Metrics Implemented)](./Activities%20Management/README.md)
 - [Survey results](./User%20Analysis/User%20Research/survey%20(students).md)
 - [Profile of Personas (Students and Teachers)](./User%20Analysis/User%20Modeling/Personas%20Profiles.md)
