@@ -11,6 +11,7 @@
 - [Deliverable Artifacts](#deliverable-artefacts)
     - [First Delivery](#first-delivery)
     - [Second Delivery](#second-delivery)
+    - [Third Delivery](#third-delivery)
 
 ## Project Definition
 
@@ -77,3 +78,12 @@ The deliverable artifacts for the **Second Delivery** are listed below:
 - [Usability Test Design](./Tests/Usability%20Tests/)
 - [Guide for the Application of Usability Tests](./Tests/Usability%20Tests/Guide%20for%20the%20Application%20of%20Usability%20Tests.md)
 - [Second Delivery Team Reflections](./Reflections%20of%20the%20HCI%20Course/Second%20Delivery/)
+
+### Third Delivery
+
+The deliverable artifacts for the **Third Delivery** are listed below:
+- [Testing Application Evidence (Youtube Playlist)](https://www.youtube.com/playlist?list=PLvVneKJJlOBjOThV8a_X6qcpngxEMFnpV)
+- [SUS Results](https://docs.google.com/spreadsheets/d/1Y8ZkyMFEAbL6jnv8Of7Ui96MILXCaZIwP2EJrkN9Mw8/edit?usp=sharing)
+- [SEQ Results](https://docs.google.com/spreadsheets/d/12tUVML_dBd0kfIWtmGvuVqaP2PJGsJO1LHcGTwVxl4k/edit?usp=sharing)
+- [Usability Test Results Report](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a16003524_alumnos_uady_mx/EeA-8zMTs-NDsch-MWCRkYwBMqAjgyrV2tBl39wPGldkDA?e=8remVR)
+- [Third Delivery Presentation - Usability Test Report]()
