@@ -12,6 +12,7 @@
     - [First Delivery](#first-delivery)
     - [Second Delivery](#second-delivery)
     - [Third Delivery](#third-delivery)
+- [Contribution Metric](#contribution-metric)
 
 ## Project Definition
 
@@ -88,3 +89,8 @@ The deliverable artifacts for the **Third Delivery** are listed below:
 - [SEQ Results](https://docs.google.com/spreadsheets/d/12tUVML_dBd0kfIWtmGvuVqaP2PJGsJO1LHcGTwVxl4k/edit?usp=sharing)
 - [Usability Test Results Report](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a16003524_alumnos_uady_mx/EeA-8zMTs-NDsch-MWCRkYwBMqAjgyrV2tBl39wPGldkDA?e=8remVR)
 - [Third Delivery Presentation - Usability Test Report](./Presentations/Third%20Delivery/Final%20Delivery%20Presentation%20-%20Usability%20Test%20Report.pdf)
+
+### Contribution Metric
+
+The weighting of the contribution metric for each team member can be found in the following link:
+[Contribution Metric - HCI Team 4](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a16003524_alumnos_uady_mx/EfKyb59QewZOlAiXi5cnWzsBuNhAD1s7jwcJyS6fIuYS4w?e=7SUhzE)
