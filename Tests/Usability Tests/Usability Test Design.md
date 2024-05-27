@@ -38,9 +38,9 @@ The NFRs with a **High Priority** level are listed below:
 
 Likewise, the Quality Attributes related to the NFR with High Priority are listed below:
 
-- [Satisfaction](../../Requirements/Requirements%20Definition.md#satisfaction)
 - [Simplicity](../../Requirements/Requirements%20Definition.md#simplicity)
-- [Efficiency](../../Requirements/Requirements%20Definition.md#efficiency)
+- [Effectiveness](../../Requirements/Requirements%20Definition.md#efficiency)
+- [Satisfaction](../../Requirements/Requirements%20Definition.md#satisfaction)
 
  
 
