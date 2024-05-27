@@ -14,6 +14,7 @@
     - [Third Delivery](#third-delivery)
 - [Contribution Metric](#contribution-metric)
 
+
 ## Project Definition
 
 ### Description
@@ -102,3 +103,6 @@ Below are the deliverable artifacts related to the **Practical Session** of the 
 
 The weighting of the contribution metric for each team member can be found in the following link:
 [Contribution Metric - HCI Team 4](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a16003524_alumnos_uady_mx/EfKyb59QewZOlAiXi5cnWzsBuNhAD1s7jwcJyS6fIuYS4w?e=7SUhzE)
+=======
+- [Second Delivery Team Reflections](./Reflections%20of%20the%20HCI%20Course/Second%20Delivery/)
+

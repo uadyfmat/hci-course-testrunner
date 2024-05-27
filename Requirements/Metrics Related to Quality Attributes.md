@@ -62,6 +62,7 @@ It is thanks to its simplicity that the completion rate is a very easy to unders
 
 $$ Effectiveness = \frac{ST}{TT} \times 100$$
 
+
 $ST$ = Number of successfully completed tasks.
 
 $TT$ = Total number of assigned tasks.
@@ -92,6 +93,7 @@ It is for the same reason that it can be performed at any stage of program devel
 The step by step procedure for the measurement of the metric is detailed below:
 
 * The Test Subjects that will test the system are defined.
+
 * Once the data storage medium is ready and the date and time of the tests with the Test Subjects have been set, they are asked to carry out each of the system activities defined in the [Guide for the Application of Usability Tests](../Tests/Usability%20Tests/Guide%20for%20the%20Application%20of%20Usability%20Tests.md#tareas).
 * At the time each activity is carried out by each Test Subject, a value of '1' will be assigned if the assigned task has been completed following the totallity of the steps required for the task, otherwise a '0' will be recorded.
 * Once the activity is finished, the sum of the values ​​obtained from each activity divided by the total number of users will be made in order to obtain the completion rate of each task, that is, the effectiveness.

@@ -494,6 +494,18 @@ This section is intended to specify the functional requirements of the system to
 - [Simplicity](#simplicity)
 - [Satisfaction](#satisfaction)
 
+**Priority:** High.
+
+**Quality Attribute Related:** [Satisfaction](#satisfaction)
+
+## Qualiity Attributes Related to Non-Functional Requirements
+
+> **Note 1:** The **Priority** of Quality Attributes was established by the identification of usability problems detected in the [Exploratory Tests](../Exploratory%20Tests/Exploratory%20Tests%20Reports/).
+
+> **Note 2:** The Quality Attributes with **High Priority** are eligible for measurement through formal metrics and procedures.
+
+### Portability
+
 
 ## Quality Attributes Related to Non-Functional Requirements
 
@@ -536,6 +548,7 @@ This section is intended to specify the functional requirements of the system to
 **Metric Related:**
 - [Interface Satisfaction Level](./Metrics%20Related%20to%20Quality%20Attributes.md#interface-satisfaction-level)
 - [Interface Simplicity Level](./Metrics%20Related%20to%20Quality%20Attributes.md#interface-simplicity-level)
+
 
 ---
 
