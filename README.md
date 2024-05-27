@@ -97,6 +97,7 @@ Below are the deliverable artifacts related to the **Practical Session** of the 
 - [Tutorial - How To Use CogTool (Video)](https://youtu.be/dPxQsU36yAA)
 - [Practical Session - CogTool](./Practical%20Session/Sesión%20Práctica%20-%20CogTool.md)
 
+
 ### Contribution Metric
 
 The weighting of the contribution metric for each team member can be found in the following link:
